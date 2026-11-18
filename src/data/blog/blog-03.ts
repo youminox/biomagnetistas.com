@@ -620,7 +620,7 @@ export const BLOG_03: BlogArticle[] = [
       "Experiencia, zona, duración y técnicas incluidas explican la mayor parte de la diferencia de precio.",
       "Los paquetes pueden convenir, pero desconfía de la presión para pagar muchas sesiones por adelantado.",
       "El directorio de México muestra terapeutas verificados por ciudad para comparar con información real.",
-      "Para familias que quieren aplicarlo en casa, un curso online de US$ 99 puede ser más eficiente que muchas sesiones sueltas, sin reemplazar la atención médica.",
+      "Para familias que quieren aplicarlo en casa, un curso online de US$ 199 puede ser más eficiente que muchas sesiones sueltas, sin reemplazar la atención médica.",
     ],
     toc: [
       { id: "rango-nacional", label: "Rango nacional de precios" },
@@ -697,7 +697,7 @@ export const BLOG_03: BlogArticle[] = [
 <p>Cada vez más consultorios aceptan transferencia SPEI o pago con tarjeta, además de efectivo. Pregunta antes si emiten comprobante y si hay recargo por pago con tarjeta. Algunos piden un anticipo para apartar la cita; es una práctica razonable siempre que la política de cancelación esté clara desde el inicio y no se trate de un monto desproporcionado.</p>
 
 <h2 id="aprender">¿Conviene aprender el método?</h2>
-<p>Hay familias que, después de varias sesiones, se dan cuenta de que les interesa entender el método y aplicarlo en casa como parte de su rutina de bienestar. En ese caso, hacer cuentas tiene sentido: el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> tiene un precio promocional de US$ 99 con acceso vitalicio, una cifra cercana a la de dos o tres sesiones en muchas ciudades mexicanas.</p>
+<p>Hay familias que, después de varias sesiones, se dan cuenta de que les interesa entender el método y aplicarlo en casa como parte de su rutina de bienestar. En ese caso, hacer cuentas tiene sentido: el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> tiene un precio de US$ 199 con acceso vitalicio, una cifra cercana a la de dos o tres sesiones en muchas ciudades mexicanas.</p>
 <p>El curso incluye 7 módulos y 26 lecciones: historia y manual completo, principios básicos (pH, tipos de imanes, emociones), práctica de rastreo y colocación, nivel avanzado con bioenergética, protocolos específicos e incluso un módulo para quienes quieran ofrecer la terapia de forma profesional. Suma una comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom durante un año.</p>
 <p>Eso sí: aprender en casa no reemplaza la atención profesional cuando hay un problema de salud, ni mucho menos al médico. Es una herramienta complementaria para quienes quieren involucrarse más. Si te interesa la formación presencial en el país, revisa nuestra guía de <a href="/blog/curso-de-biomagnetismo-en-mexico/">curso de biomagnetismo en México</a>.</p>
 
@@ -736,7 +736,7 @@ export const BLOG_03: BlogArticle[] = [
       {
         question: "¿Sale más barato aprender biomagnetismo?",
         answer:
-          "Para familias interesadas, un curso online como el de Bencio Lingán (US$ 99 promocional) puede equivaler a dos o tres sesiones, pero no reemplaza la atención médica ni profesional.",
+          "Para familias interesadas, un curso online como el de Bencio Lingán (US$ 199) puede equivaler a dos o tres sesiones, pero no reemplaza la atención médica ni profesional.",
       },
     ],
     primaryCta: "curso",
@@ -1011,7 +1011,7 @@ export const BLOG_03: BlogArticle[] = [
 <h3>Sesiones a distancia</h3>
 <p>Algunos terapeutas bogotanos ofrecen atención remota, una opción tentadora en una ciudad con tráfico pesado. Es una modalidad debatida dentro del propio biomagnetismo; te lo explicamos con honestidad en <a href="/blog/biomagnetismo-a-distancia-funciona/">¿funciona el biomagnetismo a distancia?</a>.</p>
 <h3>Aprender a aplicarlo en familia</h3>
-<p>Otra alternativa es formarte para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero, con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes y sesiones mensuales en vivo por Zoom durante un año. Tiene un precio promocional de US$ 99 con acceso vitalicio, lo que lo hace accesible frente al costo de varias sesiones. No reemplaza al médico ni a un terapeuta cuando hay problemas de salud, pero sí te da herramientas para entender y acompañar mejor a tu familia.</p>
+<p>Otra alternativa es formarte para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero, con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes y sesiones mensuales en vivo por Zoom durante un año. Tiene un precio de US$ 199 con acceso vitalicio, lo que lo hace accesible frente al costo de varias sesiones. No reemplaza al médico ni a un terapeuta cuando hay problemas de salud, pero sí te da herramientas para entender y acompañar mejor a tu familia.</p>
 <p>Si en algún momento viajas a Lima, también puedes atenderte en persona con Bencio en su consultorio de Santiago de Surco. Varias personas de Colombia aprovechan viajes de trabajo o turismo para vivir una sesión presencial con él y luego continúan practicando en casa lo aprendido en el curso.</p>
 
 <h3>Siempre como complemento</h3>
@@ -1323,7 +1323,7 @@ export const BLOG_03: BlogArticle[] = [
 <p>Suma al precio de la sesión el transporte, el parqueadero y el tiempo invertido. En Bogotá, por ejemplo, un consultorio cercano a COP 150.000 puede resultar más conveniente que uno lejano a COP 100.000 si te ahorra una hora y media de trancón y un taxi de ida y vuelta.</p>
 
 <h2 id="curso-alternativa">La alternativa de aprender en familia</h2>
-<p>Hay familias que, después de algunas sesiones, se interesan por entender el método y aplicarlo en casa como parte de su rutina de bienestar. En ese escenario, hacer números tiene sentido. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> tiene un precio promocional de US$ 99 con acceso vitalicio, una cifra comparable a dos o tres sesiones en muchas ciudades colombianas.</p>
+<p>Hay familias que, después de algunas sesiones, se interesan por entender el método y aplicarlo en casa como parte de su rutina de bienestar. En ese escenario, hacer números tiene sentido. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> tiene un precio de US$ 199 con acceso vitalicio, una cifra comparable a dos o tres sesiones en muchas ciudades colombianas.</p>
 <p>El curso tiene 7 módulos y 26 lecciones: historia y manual completo, principios básicos (pH, tipos de imanes, emociones), práctica de rastreo y colocación, nivel avanzado con bioenergética y microbiota, práctica avanzada, un módulo de promoción para quien quiera dedicarse profesionalmente y protocolos específicos. Incluye comunidad de estudiantes por WhatsApp y una sesión mensual en vivo por Zoom durante un año.</p>
 <p>Aprender en casa es un complemento: no sustituye al médico ni a un terapeuta experimentado cuando hay problemas de salud. Si te interesa la formación presencial en el país, revisa nuestra guía de <a href="/blog/curso-de-biomagnetismo-en-colombia/">curso de biomagnetismo en Colombia</a>.</p>
 
@@ -1363,7 +1363,7 @@ export const BLOG_03: BlogArticle[] = [
       {
         question: "¿Conviene más hacer un curso que pagar sesiones?",
         answer:
-          "Para familias interesadas en aplicarlo en casa, un curso online de US$ 99 puede equivaler a dos o tres sesiones, pero no reemplaza la atención médica ni profesional.",
+          "Para familias interesadas en aplicarlo en casa, un curso online de US$ 199 puede equivaler a dos o tres sesiones, pero no reemplaza la atención médica ni profesional.",
       },
     ],
     primaryCta: "curso",
@@ -1483,7 +1483,7 @@ export const BLOG_03: BlogArticle[] = [
 <h3>Sesiones a distancia</h3>
 <p>Varios terapeutas porteños ofrecen atención remota, una opción popular en el interior del país. Es una modalidad debatida dentro del propio biomagnetismo; infórmate bien antes de contratarla.</p>
 <h3>Formación online para la familia</h3>
-<p>En un contexto de precios cambiantes, algunas familias prefieren invertir una vez en aprender el método y aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> tiene un precio promocional de US$ 99 con acceso vitalicio y actualizaciones: 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento en vivo mensual por Zoom durante un año. Es un complemento, no un reemplazo del médico ni de la atención profesional.</p>
+<p>En un contexto de precios cambiantes, algunas familias prefieren invertir una vez en aprender el método y aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> tiene un precio de US$ 199 con acceso vitalicio y actualizaciones: 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento en vivo mensual por Zoom durante un año. Es un complemento, no un reemplazo del médico ni de la atención profesional.</p>
 <h3>Recordatorio de salud</h3>
 <p>El biomagnetismo es una <strong>terapia complementaria</strong>. La evidencia científica es limitada y no permite afirmar que cure enfermedades. No suspendas medicamentos, mantén tus controles médicos y consulta antes si tienes marcapasos u otros dispositivos implantados, si estás embarazada o si se trata de un niño.</p>
 <p>Buenos Aires tiene terapeutas con muchos años de trabajo serio. Con el directorio como punto de partida y estas preguntas a mano, encontrar a alguien de confianza en tu barrio es una tarea bastante más sencilla de lo que parece.</p>
@@ -1514,7 +1514,7 @@ export const BLOG_03: BlogArticle[] = [
       {
         question: "¿Hay una forma de aprender biomagnetismo con precio estable?",
         answer:
-          "El curso online de Bencio Lingán tiene un precio promocional fijo de US$ 99 con acceso vitalicio. Es un complemento y no reemplaza la atención médica.",
+          "El curso online de Bencio Lingán tiene un precio de US$ 199 con acceso vitalicio. Es un complemento y no reemplaza la atención médica.",
       },
     ],
     primaryCta: "curso",
@@ -1642,7 +1642,7 @@ export const BLOG_03: BlogArticle[] = [
 <h3>Atención remota</h3>
 <p>Algunos terapeutas santiaguinos ofrecen sesiones a distancia, útiles para quienes viven en regiones o en comunas muy alejadas. Es una modalidad debatida dentro del propio biomagnetismo; infórmate bien antes de contratarla.</p>
 <h3>Formarte para aplicarlo en casa</h3>
-<p>Otra opción, cada vez más elegida por familias chilenas, es aprender el método con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con material visual y sin tecnicismos: 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. El precio promocional es de US$ 99 con acceso vitalicio.</p>
+<p>Otra opción, cada vez más elegida por familias chilenas, es aprender el método con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con material visual y sin tecnicismos: 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. El precio es de US$ 199 con acceso vitalicio.</p>
 <p>Es un complemento para entender lo que ocurre en consulta y mantener una práctica de bienestar en casa; no reemplaza al médico ni a la atención profesional ante un problema de salud. Si en algún momento viajas a Lima, también puedes atenderte en persona con Bencio en Santiago de Surco.</p>
 <h3>Recordatorio de salud</h3>
 <p>El biomagnetismo es una <strong>terapia complementaria</strong>. Muchas personas lo usan como apoyo para su bienestar, pero la evidencia científica es limitada y no permite afirmar que cure enfermedades. No suspendas medicamentos y consulta a tu médico antes de iniciar sesiones si tienes marcapasos u otros dispositivos implantados, si estás embarazada o si se trata de un niño.</p>
@@ -1704,7 +1704,7 @@ export const BLOG_03: BlogArticle[] = [
       "En Quito la oferta está en el norte (La Carolina, Bellavista, González Suárez) y los valles; en Guayaquil, en Urdesa, Kennedy, Los Ceibos y Samborondón.",
       "Precio referencial: US$ 25 a US$ 60 por sesión, con Cumbayá y Samborondón en la parte alta.",
       "En Ecuador no hay una licencia específica de biomagnetismo; verifica trayectoria, transparencia y prudencia en salud.",
-      "Para aprender a aplicarlo en familia, el curso online de Bencio Lingán cuesta US$ 99 en promoción.",
+      "Para aprender a aplicarlo en familia, el curso online de Bencio Lingán cuesta US$ 199.",
     ],
     toc: [
       { id: "ecuador-panorama", label: "El biomagnetismo en Ecuador" },
@@ -1799,7 +1799,7 @@ export const BLOG_03: BlogArticle[] = [
 <ol>
   <li><strong>Agrupar visitas</strong> a Quito, Guayaquil o Cuenca aprovechando viajes por trabajo o familia.</li>
   <li><strong>Atención a distancia:</strong> algunos terapeutas la ofrecen; es una modalidad debatida dentro del propio biomagnetismo, así que infórmate antes.</li>
-  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual, libro de protocolos, comunidad de estudiantes y sesiones mensuales en vivo por Zoom. Cuesta US$ 99 en promoción, con acceso vitalicio.</li>
+  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual, libro de protocolos, comunidad de estudiantes y sesiones mensuales en vivo por Zoom. Cuesta US$ 199, con acceso vitalicio.</li>
 </ol>
 <p>Ecuador está, además, relativamente cerca de Lima. Si viajas al Perú, puedes atenderte en persona con Bencio en su consultorio de Santiago de Surco.</p>
 
@@ -1966,7 +1966,7 @@ export const BLOG_03: BlogArticle[] = [
 <ol>
   <li><strong>Agrupar visitas</strong> a Santa Cruz, La Paz o Cochabamba aprovechando viajes.</li>
   <li><strong>Atención a distancia:</strong> algunos terapeutas la ofrecen, aunque es una modalidad debatida dentro del propio biomagnetismo. Te lo explicamos en <a href="/blog/biomagnetismo-a-distancia-funciona/">¿funciona el biomagnetismo a distancia?</a>.</li>
-  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. El precio promocional es de US$ 99 con acceso vitalicio.</li>
+  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. El precio es de US$ 199 con acceso vitalicio.</li>
 </ol>
 <p>Bolivia comparte frontera con el Perú, y muchas familias de La Paz viajan con frecuencia a Lima. Si es tu caso, puedes atenderte en persona con Bencio Lingán en su consultorio de Santiago de Surco.</p>
 <h3>Siempre complementario</h3>
@@ -2119,7 +2119,7 @@ export const BLOG_03: BlogArticle[] = [
 <h2 id="diaspora">Para venezolanos en el exterior</h2>
 <p>Millones de venezolanos viven hoy fuera del país, muchos de ellos en el Perú, Colombia, Chile, España o Estados Unidos. Si es tu caso, puedes buscar biomagnetistas en el directorio de tu país de residencia. Y si vives en Lima, puedes atenderte en persona con Bencio Lingán en su consultorio de Santiago de Surco.</p>
 <h3>Aprender para acompañar a la familia</h3>
-<p>Una opción que eligen muchas familias, dentro y fuera de Venezuela, es aprender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, material visual, manual y libro de protocolos, comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom durante un año. El precio promocional es de US$ 99 con acceso vitalicio, y se sigue desde cualquier país con conexión a internet.</p>
+<p>Una opción que eligen muchas familias, dentro y fuera de Venezuela, es aprender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, material visual, manual y libro de protocolos, comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom durante un año. El precio es de US$ 199 con acceso vitalicio, y se sigue desde cualquier país con conexión a internet.</p>
 <p>Aprender en casa es un complemento: no sustituye al médico ni a la atención profesional ante un problema de salud.</p>
 <h3>Sesiones a distancia</h3>
 <p>Algunos terapeutas venezolanos atienden a distancia a pacientes en el exterior. Es una modalidad debatida dentro del propio biomagnetismo; infórmate antes en <a href="/blog/biomagnetismo-a-distancia-funciona/">¿funciona el biomagnetismo a distancia?</a>.</p>
@@ -2284,7 +2284,7 @@ export const BLOG_03: BlogArticle[] = [
 <ol>
   <li><strong>Agrupar visitas</strong> a la capital aprovechando viajes de trabajo o trámites.</li>
   <li><strong>Atención a distancia:</strong> algunos terapeutas la ofrecen; es una modalidad debatida dentro del propio biomagnetismo, así que infórmate antes.</li>
-  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. Cuesta US$ 99 en promoción, con acceso vitalicio.</li>
+  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. Cuesta US$ 199, con acceso vitalicio.</li>
 </ol>
 <p>El curso está pensado para quienes empiezan desde cero, con material visual y sin tecnicismos. Es un complemento para entender el método y mantener una práctica de bienestar en casa; no reemplaza la consulta médica ni la atención profesional cuando hay un problema de salud. Si en algún momento viajas a Lima, también puedes atenderte en persona con Bencio en su consultorio de Santiago de Surco.</p>
 
@@ -2453,7 +2453,7 @@ export const BLOG_03: BlogArticle[] = [
 <h3>Atención a distancia</h3>
 <p>Algunos terapeutas dominicanos atienden a distancia, tanto a pacientes en el interior como a la diáspora en Estados Unidos y España. Es una modalidad debatida dentro del propio biomagnetismo; infórmate bien antes de contratarla.</p>
 <h3>Aprender a aplicarlo en familia</h3>
-<p>Muchas familias, dentro y fuera del país, eligen aprender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. Su precio promocional es de US$ 99 con acceso vitalicio.</p>
+<p>Muchas familias, dentro y fuera del país, eligen aprender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. Su precio es de US$ 199 con acceso vitalicio.</p>
 <p>Es un complemento para entender lo que ocurre en consulta y mantener una práctica de bienestar; no reemplaza la consulta médica ni la atención profesional. Si viajas a Lima, también puedes atenderte en persona con Bencio en Santiago de Surco.</p>
 <h3>Siempre complementario</h3>
 <p>El biomagnetismo es una <strong>terapia complementaria</strong>. Muchas personas lo usan como apoyo para su bienestar, pero la evidencia científica es limitada y no permite afirmar que cure ni revierta enfermedades. No suspendas medicamentos, mantén tus controles médicos y consulta antes si tienes marcapasos u otros dispositivos implantados, si estás embarazada o si se trata de un niño.</p>
@@ -2608,7 +2608,7 @@ export const BLOG_03: BlogArticle[] = [
 <ol>
   <li><strong>Agrupar visitas</strong> a Montevideo o Asunción aprovechando viajes.</li>
   <li><strong>Atención a distancia:</strong> algunos terapeutas la ofrecen; es una modalidad debatida dentro del propio biomagnetismo, así que infórmate antes.</li>
-  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. El precio promocional es de US$ 99 con acceso vitalicio.</li>
+  <li><strong>Aprender a aplicarlo en familia:</strong> el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y acompañamiento mensual en vivo por Zoom durante un año. El precio es de US$ 199 con acceso vitalicio.</li>
 </ol>
 <p>El curso está pensado para quienes empiezan desde cero, con material visual y sin tecnicismos. Es un complemento para entender el método y acompañar a la familia; no reemplaza la consulta médica ni la atención profesional. Si viajas a Lima, también puedes atenderte en persona con Bencio en su consultorio de Santiago de Surco.</p>
 
@@ -2779,7 +2779,7 @@ export const BLOG_03: BlogArticle[] = [
 <h3>Atención a distancia</h3>
 <p>Algunos terapeutas de Madrid atienden a distancia a pacientes de otras provincias. Es una modalidad debatida dentro del propio biomagnetismo; infórmate antes de contratarla.</p>
 <h3>Aprender para la familia</h3>
-<p>Muchos latinoamericanos que viven en Madrid conocieron el biomagnetismo en su país de origen y quieren entender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom (el 1.º de cada mes a las 18:00 UTC, que en Madrid son las 19:00 en invierno y las 20:00 en verano). El precio promocional es de US$ 99 con acceso vitalicio.</p>
+<p>Muchos latinoamericanos que viven en Madrid conocieron el biomagnetismo en su país de origen y quieren entender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom (el 1.º de cada mes a las 18:00 UTC, que en Madrid son las 19:00 en invierno y las 20:00 en verano). El precio es de US$ 199 con acceso vitalicio.</p>
 <p>Es un complemento para entender el método y mantener una práctica de bienestar en casa; no sustituye la consulta médica ni la atención profesional. Si viajas a Lima a visitar a la familia, puedes atenderte en persona con Bencio en su consultorio de Santiago de Surco.</p>
 <h3>Recordatorio de salud</h3>
 <p>No suspendas medicamentos y consulta a tu médico antes de iniciar sesiones si tienes marcapasos u otros dispositivos implantados, si estás embarazada o si se trata de un niño. Informa al terapeuta de tus diagnósticos y tratamientos.</p>
@@ -2939,7 +2939,7 @@ export const BLOG_03: BlogArticle[] = [
 <h3>Atención a distancia</h3>
 <p>Algunos terapeutas atienden a distancia a pacientes de otras provincias o de las islas. Es una modalidad debatida dentro del propio biomagnetismo; infórmate bien antes de contratarla.</p>
 <h3>Aprender para aplicarlo en casa</h3>
-<p>Muchas familias, especialmente latinoamericanas, conocieron el biomagnetismo en su país de origen y quieren entender el método para aplicarlo con criterio en casa. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones: historia y manual completo, principios básicos, práctica de rastreo y colocación, nivel avanzado con bioenergética, práctica avanzada, promoción de la terapia y protocolos específicos. Incluye comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom durante un año, con acceso vitalicio por un precio promocional de US$ 99.</p>
+<p>Muchas familias, especialmente latinoamericanas, conocieron el biomagnetismo en su país de origen y quieren entender el método para aplicarlo con criterio en casa. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> enseña desde cero con 7 módulos y 26 lecciones: historia y manual completo, principios básicos, práctica de rastreo y colocación, nivel avanzado con bioenergética, práctica avanzada, promoción de la terapia y protocolos específicos. Incluye comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom durante un año, con acceso vitalicio por un precio de US$ 199.</p>
 <p>Es un complemento para entender el método y mantener una práctica de bienestar; no sustituye la consulta médica ni la atención profesional. Si viajas a Lima, puedes atenderte en persona con Bencio en su consultorio de Santiago de Surco.</p>
 <h3>Recordatorio de salud</h3>
 <p>No suspendas medicamentos y consulta a tu médico antes de iniciar sesiones si tienes marcapasos u otros dispositivos implantados, si estás embarazada o si se trata de un niño. Informa siempre al terapeuta de tus diagnósticos y tratamientos.</p>
@@ -3098,7 +3098,7 @@ export const BLOG_03: BlogArticle[] = [
 <h3>Atención a distancia</h3>
 <p>Muchos latinos en ciudades sin oferta local recurren a terapeutas que atienden a distancia, a veces desde Latinoamérica. Es una modalidad debatida dentro del propio biomagnetismo; infórmate bien antes de contratarla.</p>
 <h3>Aprender para aplicarlo en casa</h3>
-<p>Con precios de US$ 80–150 por sesión, muchas familias latinas en EE.UU. prefieren aprender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> cuesta US$ 99 en promoción, menos que una sola sesión en muchas ciudades estadounidenses, e incluye 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom durante un año (el 1.º de cada mes a las 18:00 UTC, que en Miami corresponde a las 13:00 o 14:00 según el horario de verano), con acceso vitalicio.</p>
+<p>Con precios de US$ 80–150 por sesión, muchas familias latinas en EE.UU. prefieren aprender el método para aplicarlo en casa con criterio. El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> cuesta US$ 199, menos que una sola sesión en muchas ciudades estadounidenses, e incluye 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad de estudiantes por WhatsApp y sesiones mensuales en vivo por Zoom durante un año (el 1.º de cada mes a las 18:00 UTC, que en Miami corresponde a las 13:00 o 14:00 según el horario de verano), con acceso vitalicio.</p>
 <p>Es un complemento para entender el método y acompañar a la familia; no sustituye la consulta médica ni la atención profesional. Y si viajas a Lima, puedes atenderte en persona con Bencio en su consultorio de Santiago de Surco.</p>
 <h3>Recordatorio de salud</h3>
 <p>No suspendas medicamentos y consulta a tu médico antes de iniciar sesiones si tienes marcapasos u otros dispositivos implantados, si estás embarazada o si se trata de un niño. Informa siempre al terapeuta de tus diagnósticos y tratamientos.</p>
@@ -3129,7 +3129,7 @@ export const BLOG_03: BlogArticle[] = [
       {
         question: "¿Hay una opción más económica que pagar sesiones?",
         answer:
-          "Para familias interesadas en aplicarlo en casa, el curso online de Bencio Lingán cuesta US$ 99 en promoción. Es un complemento y no sustituye la atención médica.",
+          "Para familias interesadas en aplicarlo en casa, el curso online de Bencio Lingán cuesta US$ 199. Es un complemento y no sustituye la atención médica.",
       },
     ],
     primaryCta: "curso",

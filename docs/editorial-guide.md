@@ -14,7 +14,7 @@
 - Reserva online con calendario: https://biomagnetismobens.pe/products/reserva
 - Instagram: https://www.instagram.com/biomagnetismobens/
 - **Curso Completo de Biomagnetismo online** (Bencio Lingán): https://biomagnetismobens.pe/pages/curso
-  - Precio promo **US$ 99** (antes US$ 199/297), acceso vitalicio + actualizaciones.
+  - Precio: **US$ 199** (pago único), acceso vitalicio + actualizaciones. No mencionar promociones temporales.
   - 7 módulos / 26 lecciones: 1 Bienvenida e historia + manual completo; 2 Principios básicos (ecuación de la enfermedad, pH, tipos de imanes, emociones); 3 Práctica Nivel 1 (rastreo y colocación); 4 Nivel avanzado (bioenergética, microbiota, emociones, campos electromagnéticos); 5 Práctica avanzada; 6 Cómo promocionar tu terapia (marketing); 7 Protocolos específicos.
   - Bonos: comunidad privada de estudiantes en WhatsApp 24/7, acompañamiento en vivo por Zoom mensual durante 1 año (1.º de cada mes, 18:00 UTC), acceso vitalicio. Incluye manual + libro de protocolos. Syllabus descargable.
   - Aprende desde cero, material visual, sin tecnicismos.

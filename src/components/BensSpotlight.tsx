@@ -70,7 +70,7 @@ function CursoCard({ campaign, compact = false }: { campaign: string; compact?: 
         </ul>
         <p className="mt-3 text-sm">
           <span className="text-2xl font-black text-white">{BENS.cursoPrice}</span>{" "}
-          <span className="text-slate-400 line-through">{BENS.cursoOldPrice}</span>
+          <span className="text-slate-400">pago único</span>
         </p>
         <a
           href={cursoLink(campaign)}

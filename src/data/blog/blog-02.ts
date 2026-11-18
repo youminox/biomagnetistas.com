@@ -200,7 +200,7 @@ export const BLOG_02: BlogArticle[] = [
 <tr><td>Sábanas, cojines, manta</td><td>Higiene y comodidad</td><td>US$ 30 – 80</td></tr>
 <tr><td>Escritorio y dos sillas</td><td>Entrevista inicial</td><td>US$ 80 – 250</td></tr>
 <tr><td>Fichas, consentimiento, agenda digital</td><td>Registro y organización</td><td>US$ 0 – 20 al mes</td></tr>
-<tr><td>Formación</td><td>Base de todo lo demás</td><td>Desde US$ 99 online</td></tr>
+<tr><td>Formación</td><td>Base de todo lo demás</td><td>Desde US$ 199 online</td></tr>
 </tbody>
 </table>
 <p>Con un modelo de consultorio por horas, la inversión inicial puede quedar por debajo de US$ 500 sin contar el alquiler. Para elegir los imanes, revisa nuestra guía del <a href="/blog/kit-de-imanes-para-biomagnetismo/">kit de imanes para biomagnetismo</a>.</p>
@@ -249,7 +249,7 @@ export const BLOG_02: BlogArticle[] = [
 </ul>
 <p>Desarrollamos estrategias concretas en cómo conseguir pacientes de biomagnetismo.</p>
 <h3>Aprende de quien ya lo hizo</h3>
-<p>El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a> es nuestra opción n.º 1 recomendada para quienes quieren ejercer: además de los módulos de teoría, práctica y protocolos, incluye un módulo específico sobre cómo promocionar tu terapia. Bencio atiende en su consultorio de Santiago de Surco (Lima) y suma más de 20.000 terapias, así que habla desde la experiencia diaria de gestionar una consulta real. El precio promocional es de US$ 99 con acceso vitalicio y acompañamiento mensual por Zoom durante un año.</p>
+<p>El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a> es nuestra opción n.º 1 recomendada para quienes quieren ejercer: además de los módulos de teoría, práctica y protocolos, incluye un módulo específico sobre cómo promocionar tu terapia. Bencio atiende en su consultorio de Santiago de Surco (Lima) y suma más de 20.000 terapias, así que habla desde la experiencia diaria de gestionar una consulta real. El precio es de US$ 199 con acceso vitalicio y acompañamiento mensual por Zoom durante un año.</p>
 
 <h2 id="checklist">Checklist final de apertura</h2>
 <ul>
@@ -292,7 +292,7 @@ export const BLOG_02: BlogArticle[] = [
       "Videos sueltos y PDFs sin autor suelen tener errores de puntos, polaridad y contraindicaciones.",
       "Desconfía de los 'cursos gratis' que en realidad son embudos de venta con promesas de curación.",
       "Un curso estructurado de bajo costo con acompañamiento suele ser mejor inversión que meses de contenido disperso.",
-      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 99, acceso vitalicio y soporte."
+      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 199, acceso vitalicio y soporte."
     ],
     toc: [
       { id: "existe-gratis", label: "¿Existe un curso de biomagnetismo gratis de verdad?" },
@@ -362,7 +362,7 @@ export const BLOG_02: BlogArticle[] = [
 <table>
 <thead><tr><th>Aspecto</th><th>Contenido gratuito disperso</th><th>Curso online estructurado</th></tr></thead>
 <tbody>
-<tr><td>Costo directo</td><td>US$ 0</td><td>Desde US$ 99 (promoción Bens)</td></tr>
+<tr><td>Costo directo</td><td>US$ 0</td><td>Desde US$ 199 (promoción Bens)</td></tr>
 <tr><td>Temario completo y ordenado</td><td>No</td><td>Sí, por módulos</td></tr>
 <tr><td>Manual y protocolos</td><td>PDFs sin fuente</td><td>Material propio del docente</td></tr>
 <tr><td>Resolución de dudas</td><td>Comentarios sin respuesta</td><td>Comunidad y sesiones en vivo</td></tr>
@@ -386,13 +386,13 @@ export const BLOG_02: BlogArticle[] = [
 
 <h2 id="siguiente-paso">Cuándo dar el siguiente paso</h2>
 <p>Hay un momento en que el contenido gratuito deja de sumar. Suele coincidir con estas sensaciones: tienes dudas que ningún video responde, encuentras información contradictoria o quieres practicar con tu familia y no te sientes seguro.</p>
-<p>Ahí es cuando recomendamos, como opción n.º 1, el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a>. No es gratis, pero su precio promocional de US$ 99 (antes US$ 199/297) está muy por debajo de la mayoría de formaciones, e incluye 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad privada de estudiantes en WhatsApp y una sesión mensual en vivo por Zoom durante un año. El acceso es vitalicio, con actualizaciones. Bencio lleva más de 7 años atendiendo en Lima y más de 20.000 terapias realizadas, y explica desde cero, con material visual y sin tecnicismos.</p>
+<p>Ahí es cuando recomendamos, como opción n.º 1, el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a>. No es gratis, pero su precio de US$ 199 está muy por debajo de la mayoría de formaciones, e incluye 7 módulos y 26 lecciones, manual completo, libro de protocolos, comunidad privada de estudiantes en WhatsApp y una sesión mensual en vivo por Zoom durante un año. El acceso es vitalicio, con actualizaciones. Bencio lleva más de 7 años atendiendo en Lima y más de 20.000 terapias realizadas, y explica desde cero, con material visual y sin tecnicismos.</p>
 <p>Si quieres comparar con otras alternativas antes de decidir, revisa nuestra guía de <a href="/blog/mejores-cursos-de-biomagnetismo/">mejores cursos de biomagnetismo</a> y el análisis de <a href="/blog/cuanto-cuesta-un-curso-de-biomagnetismo/">cuánto cuesta un curso de biomagnetismo</a>.</p>`,
     faqs: [
       { question: "¿Hay algún curso de biomagnetismo gratis completo?", answer: "Es muy raro. Lo habitual es encontrar clases introductorias, videos sueltos y PDFs. Sirven para entender la terapia, pero no ofrecen temario completo, práctica guiada ni resolución de dudas." },
       { question: "¿Puedo aprender biomagnetismo solo con videos de YouTube?", answer: "Puedes aprender conceptos generales, pero el rastreo y la colocación de pares requieren método y retroalimentación. Además, muchos videos omiten contraindicaciones importantes." },
       { question: "¿Son fiables los PDFs de pares biomagnéticos que circulan gratis?", answer: "Con frecuencia no. Suelen carecer de autor y fuente, y contener errores de ubicación o polaridad. Es preferible usar el manual de un docente con trayectoria verificable." },
-      { question: "¿Cuál es el curso de biomagnetismo más económico recomendado?", answer: "Nuestra recomendación n.º 1 es el curso online de Biomagnetismo Bens de Bencio Lingán, con precio promocional de US$ 99, acceso vitalicio, manual, protocolos y acompañamiento por Zoom durante un año." },
+      { question: "¿Cuál es el curso de biomagnetismo más económico recomendado?", answer: "Nuestra recomendación n.º 1 es el curso online de Biomagnetismo Bens de Bencio Lingán, con precio de US$ 199, acceso vitalicio, manual, protocolos y acompañamiento por Zoom durante un año." },
       { question: "¿Un curso gratis me permite atender pacientes?", answer: "No es recomendable. Para atender a otras personas necesitas una formación estructurada, práctica supervisada y conocer bien las contraindicaciones y los límites éticos de una terapia complementaria." }
     ],
     primaryCta: "curso",
@@ -520,7 +520,7 @@ export const BLOG_02: BlogArticle[] = [
 <li>7 módulos y 26 lecciones: bienvenida e historia, principios básicos, práctica nivel 1, nivel avanzado, práctica avanzada, cómo promocionar tu terapia y protocolos específicos.</li>
 <li>Manual completo y libro de protocolos incluidos.</li>
 <li>Comunidad privada de estudiantes en WhatsApp y acompañamiento en vivo por Zoom una vez al mes durante un año.</li>
-<li>Acceso vitalicio con actualizaciones, por un precio promocional de US$ 99.</li>
+<li>Acceso vitalicio con actualizaciones, por un precio de US$ 199.</li>
 </ul>
 <p>Si quieres comparar modalidades antes de decidir, revisa <a href="/blog/curso-de-biomagnetismo-presencial-vs-online/">curso presencial vs online</a>. Y si estás en Lima y prefieres empezar viviendo una sesión como paciente, puedes conocer el consultorio de Bens en su ficha del directorio.</p>`,
     faqs: [
@@ -528,7 +528,7 @@ export const BLOG_02: BlogArticle[] = [
       { question: "¿Cuánto tiempo se tarda en aprender biomagnetismo?", answer: "Con un curso estructurado y unas 4–5 horas semanales, puedes entender el método y hacer tus primeras revisiones en pocas semanas. La fluidez llega con varios meses de práctica regular." },
       { question: "¿Qué debo estudiar primero en biomagnetismo?", answer: "Empieza por fundamentos e historia, luego principios básicos, después rastreo y colocación, y por último protocolos y nivel avanzado. Las contraindicaciones deben estudiarse desde el inicio." },
       { question: "¿Puedo practicar biomagnetismo con mi familia mientras aprendo?", answer: "Sí, con adultos sanos que den su consentimiento, revisando contraindicaciones y sin intervenir en tratamientos médicos. En embarazo, niños o portadores de marcapasos, consulta antes con el médico." },
-      { question: "¿Qué curso recomiendan para aprender desde cero?", answer: "Recomendamos como opción n.º 1 el curso online de Bencio Lingán (Biomagnetismo Bens): 7 módulos, manual y protocolos, comunidad, Zoom mensual durante un año y acceso vitalicio por US$ 99." }
+      { question: "¿Qué curso recomiendan para aprender desde cero?", answer: "Recomendamos como opción n.º 1 el curso online de Bencio Lingán (Biomagnetismo Bens): 7 módulos, manual y protocolos, comunidad, Zoom mensual durante un año y acceso vitalicio por US$ 199." }
     ],
     primaryCta: "curso",
     relatedCountrySlugs: ["peru", "mexico", "colombia", "argentina", "espana", "estados-unidos"],
@@ -548,11 +548,11 @@ export const BLOG_02: BlogArticle[] = [
     updatedAt: "2026-11-17",
     readTime: "9 min",
     keyTakeaways: [
-      "Un curso online completo puede costar desde US$ 99; los presenciales suelen ir de varios cientos a miles de dólares por niveles.",
+      "Un curso online completo puede costar desde US$ 199; los presenciales suelen ir de varios cientos a miles de dólares por niveles.",
       "En los presenciales, viaje, alojamiento y días sin trabajar pueden duplicar el costo real.",
       "Compara por contenido: temario, manual, protocolos, soporte posterior y duración del acceso.",
       "Desconfía de precios inflados con 'descuentos' permanentes y de promesas de curación en la publicidad.",
-      "El curso online de Biomagnetismo Bens (US$ 99, acceso vitalicio) es nuestra opción n.º 1 por relación calidad-precio."
+      "El curso online de Biomagnetismo Bens (US$ 199, acceso vitalicio) es nuestra opción n.º 1 por relación calidad-precio."
     ],
     toc: [
       { id: "rangos", label: "Rangos de precio en 2026" },
@@ -571,7 +571,7 @@ export const BLOG_02: BlogArticle[] = [
 <thead><tr><th>Tipo de formación</th><th>Formato habitual</th><th>Rango referencial</th></tr></thead>
 <tbody>
 <tr><td>Taller introductorio</td><td>Una clase de 2–4 horas, online o presencial</td><td>Gratis – US$ 50</td></tr>
-<tr><td>Curso online grabado completo</td><td>Módulos en video, manual, a tu ritmo</td><td>US$ 99 – 400</td></tr>
+<tr><td>Curso online grabado completo</td><td>Módulos en video, manual, a tu ritmo</td><td>US$ 199 – 400</td></tr>
 <tr><td>Curso online con clases en vivo</td><td>Sesiones sincrónicas por semanas</td><td>US$ 200 – 800</td></tr>
 <tr><td>Curso presencial de fin de semana</td><td>2–3 días intensivos por nivel</td><td>US$ 300 – 900 por nivel</td></tr>
 <tr><td>Programa presencial por niveles</td><td>3–4 niveles a lo largo de meses</td><td>US$ 1.000 – 3.500 en total</td></tr>
@@ -644,7 +644,7 @@ export const BLOG_02: BlogArticle[] = [
 <table>
 <thead><tr><th>Concepto</th><th>Curso online Bens</th><th>Presencial local por niveles</th><th>Formación en el extranjero</th></tr></thead>
 <tbody>
-<tr><td>Matrícula</td><td>US$ 99</td><td>US$ 1.200 – 2.500</td><td>US$ 1.000 – 2.000</td></tr>
+<tr><td>Matrícula</td><td>US$ 199</td><td>US$ 1.200 – 2.500</td><td>US$ 1.000 – 2.000</td></tr>
 <tr><td>Manual y protocolos</td><td>Incluidos</td><td>A veces aparte</td><td>A veces aparte</td></tr>
 <tr><td>Viaje y alojamiento</td><td>US$ 0</td><td>Transporte local</td><td>US$ 800 – 2.000</td></tr>
 <tr><td>Días sin trabajar</td><td>0 (a tu ritmo)</td><td>6–12 días</td><td>5–10 días</td></tr>
@@ -657,14 +657,14 @@ export const BLOG_02: BlogArticle[] = [
 <h2 id="vale-la-pena">¿Vale la pena pagar por un curso?</h2>
 <p>Depende de tu objetivo. Si solo tienes curiosidad, con contenido gratuito de calidad y quizá una sesión como paciente puede bastar; lo explicamos en <a href="/blog/curso-de-biomagnetismo-gratis/">curso de biomagnetismo gratis</a>. Si quieres aplicar el método en tu familia con seguridad o plantearte ejercerlo, una formación estructurada es imprescindible.</p>
 <h3>Piensa en retorno, no solo en gasto</h3>
-<p>Para quien quiere atender, la pregunta útil es: ¿cuántas sesiones necesito para recuperar la inversión? Con un curso de US$ 99, unas pocas sesiones bastan en la mayoría de ciudades. Con un programa de US$ 3.000 más viajes, el camino es mucho más largo. Analizamos los ingresos realistas en <a href="/blog/cuanto-gana-un-biomagnetista/">cuánto gana un biomagnetista</a>.</p>
+<p>Para quien quiere atender, la pregunta útil es: ¿cuántas sesiones necesito para recuperar la inversión? Con un curso de US$ 199, unas pocas sesiones bastan en la mayoría de ciudades. Con un programa de US$ 3.000 más viajes, el camino es mucho más largo. Analizamos los ingresos realistas en <a href="/blog/cuanto-gana-un-biomagnetista/">cuánto gana un biomagnetista</a>.</p>
 <h3>Lo barato que sale caro</h3>
 <p>También existe el extremo contrario: cursos muy baratos sin docente identificable, sin manual propio y sin soporte. El precio bajo solo es una ventaja cuando viene acompañado de contenido completo y de alguien con experiencia real detrás.</p>
 <h3>Formas de pago y promociones</h3>
 <p>Muchas escuelas ofrecen pago en cuotas, descuentos por pronto pago o promociones de temporada. Son útiles, pero conviene leer la letra pequeña: algunas promociones permanentes muestran un "precio anterior" que en la práctica nunca se cobró. Lo importante es el precio final que pagas, lo que incluye y si existe una política clara de acceso y soporte después de la compra.</p>
 
 <h2 id="recomendacion">Nuestra recomendación</h2>
-<p>Por relación calidad-precio, nuestra opción n.º 1 es el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> (Biomagnetismo Bens, Lima). Su precio promocional es de <strong>US$ 99</strong> (antes US$ 199/297) e incluye:</p>
+<p>Por relación calidad-precio, nuestra opción n.º 1 es el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> (Biomagnetismo Bens, Lima). Su precio es de <strong>US$ 199</strong> e incluye:</p>
 <ul>
 <li>7 módulos y 26 lecciones, desde la historia y los principios hasta protocolos específicos y un módulo de marketing para promocionar tu terapia.</li>
 <li>Manual completo y libro de protocolos.</li>
@@ -673,7 +673,7 @@ export const BLOG_02: BlogArticle[] = [
 </ul>
 <p>Bencio Lingán es comunicador social y terapeuta con más de 7 años de experiencia y más de 20.000 terapias realizadas en su consultorio de Santiago de Surco, lo que se nota en un enfoque práctico, visual y sin tecnicismos. Si estás comparando varias opciones, consulta también nuestra lista de <a href="/blog/mejores-cursos-de-biomagnetismo/">mejores cursos de biomagnetismo</a>.</p>`,
     faqs: [
-      { question: "¿Cuánto cuesta un curso de biomagnetismo online?", answer: "Los cursos online completos suelen costar entre US$ 99 y 400 si son grabados, y entre US$ 200 y 800 si incluyen clases en vivo. El curso de Biomagnetismo Bens cuesta US$ 99 en promoción." },
+      { question: "¿Cuánto cuesta un curso de biomagnetismo online?", answer: "Los cursos online completos suelen costar entre US$ 99 y 400 si son grabados, y entre US$ 200 y 800 si incluyen clases en vivo. El curso de Biomagnetismo Bens cuesta US$ 199." },
       { question: "¿Cuánto cuesta un curso presencial de biomagnetismo?", answer: "Un curso presencial de fin de semana suele costar entre US$ 300 y 900 por nivel, y un programa completo por niveles puede sumar entre US$ 1.000 y 3.500, sin contar viajes." },
       { question: "¿Por qué hay tanta diferencia de precios entre cursos?", answer: "Influyen la modalidad, las clases en vivo, la estructura por niveles, los materiales incluidos, el soporte posterior y también la inversión en marca y publicidad de cada escuela." },
       { question: "¿Qué costos ocultos tiene un curso de biomagnetismo?", answer: "Viajes, alojamiento, días sin trabajar, niveles adicionales obligatorios, manuales vendidos aparte, renovación de acceso a plataformas y el kit de imanes." },
@@ -794,7 +794,7 @@ export const BLOG_02: BlogArticle[] = [
 <li>Módulos de práctica de rastreo y colocación, nivel básico y avanzado.</li>
 <li>Manual completo y libro de protocolos para tener a mano durante las sesiones en casa.</li>
 <li>Comunidad privada de estudiantes y Zoom mensual durante un año para resolver dudas.</li>
-<li>Acceso vitalicio por un precio promocional de US$ 99.</li>
+<li>Acceso vitalicio por un precio de US$ 199.</li>
 </ul>
 <p>Como complemento, Bens ofrece la guía visual "Imanes para Casa", pensada para el bienestar diario en el hogar. Si te interesa la ruta completa de aprendizaje, sigue con <a href="/blog/aprender-biomagnetismo-desde-cero/">aprender biomagnetismo desde cero</a>.</p>`,
     faqs: [
@@ -802,7 +802,7 @@ export const BLOG_02: BlogArticle[] = [
       { question: "¿Puedo aplicar biomagnetismo a mis hijos?", answer: "Solo después de consultar con el pediatra, con sesiones breves y nunca para retrasar una consulta médica. Ante fiebre alta, dificultad para respirar o decaimiento, acude al médico de inmediato." },
       { question: "¿Qué necesito para hacer biomagnetismo en casa?", answer: "Formación estructurada, un kit básico de imanes, una superficie cómoda donde la persona pueda recostarse, un ambiente tranquilo y un cuaderno para registrar las sesiones." },
       { question: "¿Cada cuánto puedo hacer sesiones en familia?", answer: "No hay evidencia de que más sesiones sean mejores. La mayoría de terapeutas recomienda espaciarlas y observar cómo se siente la persona, en lugar de hacer sesiones diarias." },
-      { question: "¿Qué curso sirve para aprender biomagnetismo para la familia?", answer: "Recomendamos el curso online de Bencio Lingán (Biomagnetismo Bens): está pensado para aprender desde cero, incluye manual y protocolos, comunidad, Zoom mensual y acceso vitalicio por US$ 99." }
+      { question: "¿Qué curso sirve para aprender biomagnetismo para la familia?", answer: "Recomendamos el curso online de Bencio Lingán (Biomagnetismo Bens): está pensado para aprender desde cero, incluye manual y protocolos, comunidad, Zoom mensual y acceso vitalicio por US$ 199." }
     ],
     primaryCta: "curso",
     relatedCountrySlugs: ["peru", "mexico", "colombia", "espana", "estados-unidos"],
@@ -972,7 +972,7 @@ export const BLOG_02: BlogArticle[] = [
       "Los ingresos dependen de tu ciudad, tu precio y cuántas sesiones logres sostener por semana.",
       "Con 6–10 sesiones semanales es posible generar un ingreso complementario relevante en muchas ciudades.",
       "El crecimiento es gradual: los primeros meses suelen ser de pocas sesiones mientras construyes reputación.",
-      "La formación con módulo de marketing acorta la curva; el curso de Bens cuesta US$ 99."
+      "La formación con módulo de marketing acorta la curva; el curso de Bens cuesta US$ 199."
     ],
     toc: [
       { id: "por-que", label: "Por qué el biomagnetismo encaja como segundo ingreso" },
@@ -1001,7 +1001,7 @@ export const BLOG_02: BlogArticle[] = [
 <table>
 <thead><tr><th>Concepto</th><th>Opción económica</th><th>Opción cómoda</th></tr></thead>
 <tbody>
-<tr><td>Formación online</td><td>US$ 99 (curso Bens)</td><td>US$ 99 + materiales complementarios</td></tr>
+<tr><td>Formación online</td><td>US$ 199 (curso Bens)</td><td>US$ 199 + materiales complementarios</td></tr>
 <tr><td>Kit de imanes</td><td>US$ 40 – 80</td><td>US$ 120 – 250</td></tr>
 <tr><td>Camilla</td><td>US$ 80 – 120 (plegable)</td><td>US$ 200 – 300</td></tr>
 <tr><td>Ropa de cama, manta, cojines</td><td>US$ 30</td><td>US$ 60</td></tr>
@@ -1078,7 +1078,7 @@ export const BLOG_02: BlogArticle[] = [
 <h2 id="empezar">Cómo empezar este mes</h2>
 <p>Si los números te convencen, este es un orden sensato para arrancar:</p>
 <ol>
-<li><strong>Fórmate.</strong> Nuestra opción n.º 1 es el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a>: US$ 99 en promoción, 7 módulos que incluyen práctica, protocolos y un módulo de marketing para promocionar tu terapia, manual, comunidad de estudiantes y Zoom mensual durante un año.</li>
+<li><strong>Fórmate.</strong> Nuestra opción n.º 1 es el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a>: US$ 199, 7 módulos que incluyen práctica, protocolos y un módulo de marketing para promocionar tu terapia, manual, comunidad de estudiantes y Zoom mensual durante un año.</li>
 <li><strong>Practica</strong> con familiares adultos durante algunas semanas.</li>
 <li><strong>Compra un kit</strong> adecuado a tu nivel.</li>
 <li><strong>Define tu horario fijo</strong> y tu precio.</li>
@@ -1115,7 +1115,7 @@ export const BLOG_02: BlogArticle[] = [
       "El presencial aporta corrección física inmediata, pero suele ser caro, intensivo y sin acceso posterior a las clases.",
       "La práctica se puede aprender online si el curso incluye demostraciones claras, manual y espacios de dudas en vivo.",
       "Un modelo híbrido (curso online + sesión presencial de observación) combina lo mejor de ambos.",
-      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 99, acceso vitalicio y Zoom mensual."
+      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 199, acceso vitalicio y Zoom mensual."
     ],
     toc: [
       { id: "dilema", label: "El dilema: ¿aula o pantalla?" },
@@ -1143,7 +1143,7 @@ export const BLOG_02: BlogArticle[] = [
 <h2 id="ventajas-online">Ventajas y límites del curso online</h2>
 <h3>Ventajas</h3>
 <ul>
-<li><strong>Precio.</strong> Al no tener costos de sala ni de viaje, suele ser mucho más económico. Hay cursos completos desde US$ 99.</li>
+<li><strong>Precio.</strong> Al no tener costos de sala ni de viaje, suele ser mucho más económico. Hay cursos completos desde US$ 199.</li>
 <li><strong>Flexibilidad.</strong> Estudias cuando puedes: de noche, el fin de semana, en pausas del trabajo.</li>
 <li><strong>Repetición ilimitada.</strong> Puedes ver una demostración de rastreo tantas veces como necesites.</li>
 <li><strong>Acceso permanente.</strong> Los mejores cursos ofrecen acceso vitalicio, lo que permite repasar cuando empiezas a practicar o atender.</li>
@@ -1178,7 +1178,7 @@ export const BLOG_02: BlogArticle[] = [
 <table>
 <thead><tr><th>Criterio</th><th>Online (estructurado)</th><th>Presencial</th></tr></thead>
 <tbody>
-<tr><td>Costo de matrícula</td><td>Desde US$ 99</td><td>US$ 300 – 900 por nivel</td></tr>
+<tr><td>Costo de matrícula</td><td>Desde US$ 199</td><td>US$ 300 – 900 por nivel</td></tr>
 <tr><td>Costos adicionales</td><td>Prácticamente ninguno</td><td>Viaje, alojamiento, días sin trabajar</td></tr>
 <tr><td>Flexibilidad horaria</td><td>Total</td><td>Fechas fijas</td></tr>
 <tr><td>Repasar contenidos</td><td>Ilimitado si hay acceso vitalicio</td><td>Solo apuntes y manual</td></tr>
@@ -1235,13 +1235,13 @@ export const BLOG_02: BlogArticle[] = [
 <li>Manual completo y libro de protocolos incluidos.</li>
 <li>Comunidad privada de estudiantes en WhatsApp 24/7.</li>
 <li>Acompañamiento en vivo por Zoom el primer día de cada mes, a las 18:00 UTC, durante un año.</li>
-<li>Acceso vitalicio con actualizaciones, por US$ 99 en promoción.</li>
+<li>Acceso vitalicio con actualizaciones, por US$ 199.</li>
 </ul>
 <p>Detrás está la experiencia de más de 7 años y más de 20.000 terapias en consulta. Si quieres ver cómo se compara con otras opciones, consulta <a href="/blog/mejores-cursos-de-biomagnetismo/">mejores cursos de biomagnetismo</a> y nuestra guía del <a href="/blog/curso-de-biomagnetismo-online/">curso de biomagnetismo online</a>.</p>`,
     faqs: [
       { question: "¿Es mejor un curso de biomagnetismo presencial u online?", answer: "Depende de tu objetivo. El online es más económico, flexible y permite repasar siempre; el presencial ofrece corrección inmediata, pero es más caro y sin acceso posterior. Para la mayoría, un buen curso online es la mejor opción." },
       { question: "¿Se puede aprender a rastrear en un curso online?", answer: "Sí, si el curso incluye demostraciones claras, manual con imágenes, módulos de práctica y espacios en vivo para resolver dudas. Luego se necesita práctica responsable en casa." },
-      { question: "¿Cuánto cuesta un curso presencial frente a uno online?", answer: "Un presencial suele costar entre US$ 300 y 900 por nivel, más viajes y días sin trabajar. Un curso online completo puede costar desde US$ 99, como el de Biomagnetismo Bens." },
+      { question: "¿Cuánto cuesta un curso presencial frente a uno online?", answer: "Un presencial suele costar entre US$ 300 y 900 por nivel, más viajes y días sin trabajar. Un curso online completo puede costar desde US$ 199, como el de Biomagnetismo Bens." },
       { question: "¿El certificado de un curso online vale igual que el presencial?", answer: "El biomagnetismo no es una profesión sanitaria regulada en la mayoría de países, así que ningún certificado tiene validez oficial. Lo que importa es la calidad de la formación y tu práctica." },
       { question: "¿Qué es un modelo de formación híbrido?", answer: "Combinar un curso online completo con práctica en casa, sesiones en vivo de dudas y alguna experiencia presencial como paciente u observador con un terapeuta experimentado." }
     ],
@@ -1390,7 +1390,7 @@ export const BLOG_02: BlogArticle[] = [
 
 <h2 id="recomendacion">El manual que recomendamos</h2>
 <p>Biomagnetismo Bens, el consultorio de Bencio Lingán en Santiago de Surco (Lima), ofrece un <strong>Manual completo de biomagnetismo</strong> elaborado a partir de más de 7 años de práctica y más de 20.000 terapias. Está diseñado con un enfoque visual, explicaciones claras y sin tecnicismos, pensado para quien aprende y para quien atiende.</p>
-<p>Si quieres aprender a usarlo de verdad, la opción que recomendamos en primer lugar es el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online</a>, que ya incluye el manual completo y el libro de protocolos, además de 7 módulos y 26 lecciones, comunidad privada de estudiantes, Zoom mensual durante un año y acceso vitalicio por US$ 99. De esta forma, cada página del manual va acompañada de una explicación y una demostración del propio autor.</p>
+<p>Si quieres aprender a usarlo de verdad, la opción que recomendamos en primer lugar es el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online</a>, que ya incluye el manual completo y el libro de protocolos, además de 7 módulos y 26 lecciones, comunidad privada de estudiantes, Zoom mensual durante un año y acceso vitalicio por US$ 199. De esta forma, cada página del manual va acompañada de una explicación y una demostración del propio autor.</p>
 <p>Para el uso familiar, Bens también ofrece la guía visual "Imanes para Casa", centrada en el bienestar cotidiano. Y si aún estás decidiendo cómo empezar, te recomendamos leer <a href="/blog/aprender-biomagnetismo-desde-cero/">aprender biomagnetismo desde cero</a> y <a href="/blog/puntos-de-rastreo-biomagnetismo/">puntos de rastreo en biomagnetismo</a>.</p>`,
     faqs: [
       { question: "¿Cuál es el mejor manual de biomagnetismo?", answer: "El que tenga autor con trayectoria verificable, imágenes claras de los puntos, protocolos organizados, contraindicaciones y coherencia con tu formación. Recomendamos el manual completo de Biomagnetismo Bens, incluido en su curso online." },
@@ -1529,7 +1529,7 @@ export const BLOG_02: BlogArticle[] = [
 <li>La <strong>Práctica avanzada</strong> amplía puntos y combina rastreo con bioenergética.</li>
 <li>Incluye el <strong>manual completo</strong> y el <strong>libro de protocolos</strong> como referencia.</li>
 <li>Puedes resolver dudas en la <strong>comunidad de estudiantes</strong> y en el <strong>Zoom mensual</strong> durante un año.</li>
-<li>Acceso vitalicio por <strong>US$ 99</strong>, para volver a las demostraciones cuantas veces necesites.</li>
+<li>Acceso vitalicio por <strong>US$ 199</strong>, para volver a las demostraciones cuantas veces necesites.</li>
 </ul>
 <p>Bencio Lingán ha realizado más de 20.000 terapias en su consultorio de Santiago de Surco (Lima), y esa práctica diaria se refleja en un recorrido de rastreo pensado para ser claro y reproducible. Para complementar, revisa <a href="/blog/manual-de-biomagnetismo-libro/">qué debe tener un buen manual de biomagnetismo</a>.</p>`,
     faqs: [
@@ -1648,7 +1648,7 @@ export const BLOG_02: BlogArticle[] = [
 <li><strong>Revisa tu comunicación:</strong> relee tus publicaciones y mensajes buscando promesas o "diagnósticos".</li>
 <li><strong>Vive sesiones como paciente</strong> con un terapeuta experimentado para observar buenas prácticas.</li>
 </ol>
-<p>El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a>, nuestra opción n.º 1, está pensado justamente para que el principiante no aprenda solo: incluye módulos de práctica con demostraciones, manual y libro de protocolos, comunidad privada de estudiantes en WhatsApp y Zoom mensual en vivo durante un año para resolver dudas. Bencio suma más de 7 años de experiencia y más de 20.000 terapias, y conoce bien los errores típicos porque los ha visto en sus alumnos. El curso cuesta US$ 99 en promoción, con acceso vitalicio.</p>
+<p>El <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo de Bencio Lingán</a>, nuestra opción n.º 1, está pensado justamente para que el principiante no aprenda solo: incluye módulos de práctica con demostraciones, manual y libro de protocolos, comunidad privada de estudiantes en WhatsApp y Zoom mensual en vivo durante un año para resolver dudas. Bencio suma más de 7 años de experiencia y más de 20.000 terapias, y conoce bien los errores típicos porque los ha visto en sus alumnos. El curso cuesta US$ 199, con acceso vitalicio.</p>
 <p>Si estás en Lima, también puedes <a href="https://biomagnetismobens.pe/products/reserva" target="_blank" rel="sponsored noopener">reservar una sesión en Biomagnetismo Bens</a> para observar cómo se conduce una sesión completa, desde la entrevista hasta el cierre.</p>`,
     faqs: [
       { question: "¿Cuál es el error más grave de un biomagnetista principiante?", answer: "Prometer curaciones o 'diagnosticar' enfermedades a partir del rastreo. Es falso, poco ético, puede llevar a decisiones peligrosas y en muchos países puede ser sancionado como publicidad engañosa." },
@@ -1825,7 +1825,7 @@ export const BLOG_02: BlogArticle[] = [
       "Hay formaciones presenciales en CDMX, Guadalajara, Monterrey, Puebla y Querétaro, con precios muy variables.",
       "Los cursos presenciales por niveles pueden sumar decenas de miles de pesos, sin contar traslados.",
       "Un curso online completo permite formarse desde cualquier estado con acceso permanente.",
-      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens (US$ 99), accesible desde todo México."
+      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens (US$ 199), accesible desde todo México."
     ],
     toc: [
       { id: "mexico-cuna", label: "México, la cuna del Par Biomagnético" },
@@ -1871,7 +1871,7 @@ export const BLOG_02: BlogArticle[] = [
 <tr><td>Curso presencial de fin de semana</td><td>2–3 días por nivel</td><td>MX$ 5.000 – 15.000 por nivel</td></tr>
 <tr><td>Programa presencial por niveles</td><td>3–4 niveles en varios meses</td><td>MX$ 20.000 – 60.000 en total</td></tr>
 <tr><td>Diplomado en centro de terapias</td><td>Varios meses</td><td>MX$ 10.000 – 35.000</td></tr>
-<tr><td>Curso online completo (Bens)</td><td>A tu ritmo, acceso vitalicio</td><td>US$ 99 (aprox. MX$ 1.800–2.000 según tipo de cambio)</td></tr>
+<tr><td>Curso online completo (Bens)</td><td>A tu ritmo, acceso vitalicio</td><td>US$ 199 (aprox. MX$ 1.800–2.000 según tipo de cambio)</td></tr>
 </tbody>
 </table>
 <p>A estos costos hay que sumar traslados, hospedaje si la formación es en otra ciudad, días sin trabajar, manuales y kit de imanes. Para un análisis completo, revisa <a href="/blog/cuanto-cuesta-un-curso-de-biomagnetismo/">cuánto cuesta un curso de biomagnetismo</a>.</p>
@@ -1914,7 +1914,7 @@ export const BLOG_02: BlogArticle[] = [
 <li><strong>Manual completo y libro de protocolos</strong> incluidos.</li>
 <li><strong>Comunidad privada</strong> de estudiantes en WhatsApp, con alumnos de varios países.</li>
 <li><strong>Zoom mensual en vivo</strong> durante un año, el primer día de cada mes a las 18:00 UTC (12:00 en hora del centro de México).</li>
-<li><strong>Acceso vitalicio</strong> y actualizaciones, por US$ 99 en promoción.</li>
+<li><strong>Acceso vitalicio</strong> y actualizaciones, por US$ 199.</li>
 </ul>
 <p>Bencio Lingán es terapeuta y comunicador social, con más de 7 años de experiencia y más de 20.000 terapias realizadas en su consultorio de Lima. El curso sigue el Método Goiz (Par Biomagnético) y añade rastreo con bioenergética, con un enfoque visual y sin tecnicismos. Para comparar modalidades, lee curso presencial vs online.</p>
 
@@ -1929,7 +1929,7 @@ export const BLOG_02: BlogArticle[] = [
 <p>Si quieres convertirlo en una actividad profesional, te serán útiles cómo abrir un consultorio de biomagnetismo y cómo conseguir pacientes. Y si alguna vez viajas a Lima, puedes conocer en persona el trabajo de Bencio en Biomagnetismo Bens, en Santiago de Surco.</p>`,
     faqs: [
       { question: "¿Dónde estudiar biomagnetismo en México?", answer: "Hay formaciones presenciales en Ciudad de México, Guadalajara, Monterrey y otras ciudades, además de cursos online. Recomendamos como opción n.º 1 el curso online de Biomagnetismo Bens, accesible desde cualquier estado." },
-      { question: "¿Cuánto cuesta un curso de biomagnetismo en México?", answer: "Un curso presencial de fin de semana suele costar entre MX$ 5.000 y 15.000 por nivel, y un programa completo puede sumar MX$ 20.000–60.000. El curso online de Bens cuesta US$ 99." },
+      { question: "¿Cuánto cuesta un curso de biomagnetismo en México?", answer: "Un curso presencial de fin de semana suele costar entre MX$ 5.000 y 15.000 por nivel, y un programa completo puede sumar MX$ 20.000–60.000. El curso online de Bens cuesta US$ 199." },
       { question: "¿El biomagnetismo está regulado en México?", answer: "No como profesión sanitaria. Un diploma de curso libre no equivale a un título universitario ni habilita para ejercer la medicina. Infórmate de los requisitos fiscales y municipales para ejercer como terapeuta." },
       { question: "¿Se puede estudiar biomagnetismo online desde México?", answer: "Sí. El curso de Biomagnetismo Bens es 100 % online, con acceso vitalicio, manual, comunidad y Zoom mensual el primer día de cada mes a las 18:00 UTC (mediodía en el centro de México)." },
       { question: "¿Qué debe incluir un buen curso de biomagnetismo en México?", answer: "Docente con trayectoria verificable, temario completo, manual, práctica de rastreo y colocación, protocolos, contraindicaciones, ética, soporte posterior y un costo total transparente." }
@@ -1956,7 +1956,7 @@ export const BLOG_02: BlogArticle[] = [
       "Los precios presenciales varían mucho; un programa completo por niveles puede superar varios millones de pesos.",
       "En Colombia el biomagnetismo no es una profesión sanitaria regulada: ningún diploma de curso libre habilita para ejercer medicina.",
       "Un curso online completo evita traslados entre ciudades y permite repasar indefinidamente.",
-      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 99 y acceso vitalicio."
+      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 199 y acceso vitalicio."
     ],
     toc: [
       { id: "panorama", label: "Panorama del biomagnetismo en Colombia" },
@@ -1995,7 +1995,7 @@ export const BLOG_02: BlogArticle[] = [
 <tr><td>Curso presencial de fin de semana</td><td>2–3 días por nivel</td><td>COP 800.000 – 2.500.000 por nivel</td></tr>
 <tr><td>Programa completo por niveles</td><td>3–4 niveles</td><td>COP 3.000.000 – 8.000.000</td></tr>
 <tr><td>Diplomado en centro de terapias</td><td>Varios meses</td><td>COP 1.500.000 – 5.000.000</td></tr>
-<tr><td>Curso online completo (Bens)</td><td>A tu ritmo, acceso vitalicio</td><td>US$ 99 (aprox. COP 400.000, según tasa de cambio)</td></tr>
+<tr><td>Curso online completo (Bens)</td><td>A tu ritmo, acceso vitalicio</td><td>US$ 199 (aprox. COP 400.000, según tasa de cambio)</td></tr>
 </tbody>
 </table>
 <p>Recuerda sumar traslados entre ciudades, alojamiento, días sin trabajar, manuales y kit de imanes. El análisis de costo total está en <a href="/blog/cuanto-cuesta-un-curso-de-biomagnetismo/">cuánto cuesta un curso de biomagnetismo</a>.</p>
@@ -2038,7 +2038,7 @@ export const BLOG_02: BlogArticle[] = [
 <li><strong>Manual completo y libro de protocolos</strong> incluidos.</li>
 <li><strong>Comunidad privada de estudiantes</strong> en WhatsApp 24/7.</li>
 <li><strong>Zoom en vivo</strong> el primer día de cada mes a las 18:00 UTC (13:00 en Colombia) durante un año.</li>
-<li><strong>Acceso vitalicio</strong> con actualizaciones por US$ 99 en promoción (antes US$ 199/297).</li>
+<li><strong>Acceso vitalicio</strong> con actualizaciones por US$ 199.</li>
 </ul>
 <p>Bencio Lingán es comunicador social y terapeuta, con más de 7 años de experiencia y más de 20.000 terapias realizadas en Lima. Su forma de enseñar es visual, práctica y sin tecnicismos, pensada para quien empieza desde cero. Si dudas entre modalidades, lee curso presencial vs online.</p>
 <h3>¿Y la práctica?</h3>
@@ -2056,7 +2056,7 @@ export const BLOG_02: BlogArticle[] = [
 <p>Para dar los primeros pasos como profesional, te serán útiles cómo abrir un consultorio de biomagnetismo y ética del terapeuta de biomagnetismo. Y si algún día viajas a Lima, puedes conocer el consultorio de Biomagnetismo Bens en Santiago de Surco para ver en directo cómo trabaja Bencio.</p>`,
     faqs: [
       { question: "¿Dónde estudiar biomagnetismo en Colombia?", answer: "Hay cursos presenciales en Bogotá, Medellín, Cali y Barranquilla, y opciones online. Recomendamos como opción n.º 1 el curso online de Biomagnetismo Bens, accesible desde cualquier ciudad del país." },
-      { question: "¿Cuánto cuesta un curso de biomagnetismo en Colombia?", answer: "Un curso presencial de fin de semana suele costar entre COP 800.000 y 2.500.000 por nivel, y un programa completo puede superar los COP 3.000.000. El curso online de Bens cuesta US$ 99." },
+      { question: "¿Cuánto cuesta un curso de biomagnetismo en Colombia?", answer: "Un curso presencial de fin de semana suele costar entre COP 800.000 y 2.500.000 por nivel, y un programa completo puede superar los COP 3.000.000. El curso online de Bens cuesta US$ 199." },
       { question: "¿Necesito un título para ejercer biomagnetismo en Colombia?", answer: "El biomagnetismo no es una profesión sanitaria regulada para terapeutas sin título en salud. Se ofrece como práctica complementaria de bienestar; infórmate sobre requisitos tributarios y municipales." },
       { question: "¿A qué hora es el Zoom del curso de Bens en Colombia?", answer: "El acompañamiento en vivo es el primer día de cada mes a las 18:00 UTC, que corresponde a la 1:00 p. m. en Colombia, durante un año." },
       { question: "¿Cuánto cobra un biomagnetista en Colombia?", answer: "Como referencia, una sesión suele costar entre COP 80.000 y 250.000, según la ciudad, la experiencia del terapeuta y el tipo de consultorio." }
@@ -2083,7 +2083,7 @@ export const BLOG_02: BlogArticle[] = [
       "La inflación argentina y el tipo de cambio hacen que los precios en pesos cambien con frecuencia; conviene comparar en dólares.",
       "En ambos países el biomagnetismo se ofrece como práctica complementaria, sin regulación sanitaria específica.",
       "Las grandes distancias hacen del curso online la opción más eficiente para la mayoría.",
-      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 99 con acceso vitalicio."
+      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 199 con acceso vitalicio."
     ],
     toc: [
       { id: "panorama", label: "Panorama en el Cono Sur" },
@@ -2137,7 +2137,7 @@ export const BLOG_02: BlogArticle[] = [
 <tr><td>Taller introductorio</td><td>US$ 0 – 40</td><td>CLP 0 – 40.000</td></tr>
 <tr><td>Curso presencial de fin de semana, por nivel</td><td>US$ 150 – 500</td><td>CLP 200.000 – 500.000</td></tr>
 <tr><td>Programa completo por niveles</td><td>US$ 500 – 1.500</td><td>CLP 700.000 – 1.800.000</td></tr>
-<tr><td>Curso online completo (Bens)</td><td>US$ 99</td><td>US$ 99 (aprox. CLP 90.000–100.000)</td></tr>
+<tr><td>Curso online completo (Bens)</td><td>US$ 199</td><td>US$ 199 (aprox. CLP 90.000–100.000)</td></tr>
 </tbody>
 </table>
 <p>A la matrícula hay que sumar traslados, alojamiento, días sin trabajar y materiales. Analizamos el costo total en <a href="/blog/cuanto-cuesta-un-curso-de-biomagnetismo/">cuánto cuesta un curso de biomagnetismo</a>.</p>
@@ -2165,7 +2165,7 @@ export const BLOG_02: BlogArticle[] = [
 <h2 id="online">La alternativa online</h2>
 <p>Con distancias de miles de kilómetros y precios cambiantes, el curso online es la opción más eficiente para la mayoría de argentinos y chilenos. Nuestra opción n.º 1 es el <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">Curso Completo de Biomagnetismo online de Bencio Lingán</a> (Biomagnetismo Bens):</p>
 <ul>
-<li><strong>Precio fijo en dólares:</strong> US$ 99 en promoción, con acceso vitalicio y actualizaciones incluidas.</li>
+<li><strong>Precio fijo en dólares:</strong> US$ 199, con acceso vitalicio y actualizaciones incluidas.</li>
 <li><strong>7 módulos y 26 lecciones</strong>, desde la historia del método hasta protocolos específicos y un módulo para promocionar tu terapia.</li>
 <li><strong>Manual completo y libro de protocolos</strong>.</li>
 <li><strong>Comunidad privada</strong> de estudiantes en WhatsApp.</li>
@@ -2188,7 +2188,7 @@ export const BLOG_02: BlogArticle[] = [
     faqs: [
       { question: "¿Dónde estudiar biomagnetismo en Argentina?", answer: "La oferta presencial se concentra en Buenos Aires, Córdoba, Rosario y Mendoza. Para estudiar desde cualquier provincia, recomendamos el curso online de Biomagnetismo Bens, con precio fijo en dólares." },
       { question: "¿Dónde estudiar biomagnetismo en Chile?", answer: "Principalmente en Santiago, con cursos ocasionales en Viña del Mar y Concepción. La opción online de Biomagnetismo Bens permite formarse desde cualquier región." },
-      { question: "¿Cuánto cuesta un curso de biomagnetismo en Chile?", answer: "Como referencia, un curso presencial de fin de semana cuesta entre CLP 200.000 y 500.000 por nivel. El curso online de Bens cuesta US$ 99, unos CLP 90.000–100.000 según el tipo de cambio." },
+      { question: "¿Cuánto cuesta un curso de biomagnetismo en Chile?", answer: "Como referencia, un curso presencial de fin de semana cuesta entre CLP 200.000 y 500.000 por nivel. El curso online de Bens cuesta US$ 199, unos CLP 90.000–100.000 según el tipo de cambio." },
       { question: "¿Por qué comparar en dólares en Argentina?", answer: "Por la inflación y la variación del tipo de cambio, los precios en pesos cambian con frecuencia. Un curso con precio fijo en dólares y acceso vitalicio no se encarece con el tiempo." },
       { question: "¿El biomagnetismo está regulado en Argentina o Chile?", answer: "No como profesión sanitaria. Se ofrece como práctica complementaria de bienestar. Si vas a atender, infórmate sobre la inscripción tributaria y los requisitos municipales de tu localidad." }
     ],
@@ -2214,7 +2214,7 @@ export const BLOG_02: BlogArticle[] = [
       "Los precios presenciales suelen ir de 250 € a 700 € por nivel, más desplazamientos y alojamiento.",
       "España vigila especialmente la publicidad de terapias sin evidencia: comunicar con honestidad es imprescindible.",
       "Ningún curso de biomagnetismo otorga una titulación sanitaria oficial en España.",
-      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 99 (unos 90–95 €) y acceso vitalicio."
+      "Nuestra opción n.º 1 es el curso online de Biomagnetismo Bens: US$ 199 (unos 90–95 €) y acceso vitalicio."
     ],
     toc: [
       { id: "panorama", label: "El biomagnetismo en España" },
@@ -2263,7 +2263,7 @@ export const BLOG_02: BlogArticle[] = [
 <tr><td>Curso presencial de fin de semana</td><td>2–3 días por nivel</td><td>250 – 700 € por nivel</td></tr>
 <tr><td>Programa completo por niveles</td><td>3–4 niveles</td><td>900 – 2.500 €</td></tr>
 <tr><td>Formación en escuela de terapias naturales</td><td>Varios meses</td><td>600 – 2.000 €</td></tr>
-<tr><td>Curso online completo (Bens)</td><td>A tu ritmo, acceso vitalicio</td><td>US$ 99 (aprox. 90–95 €)</td></tr>
+<tr><td>Curso online completo (Bens)</td><td>A tu ritmo, acceso vitalicio</td><td>US$ 199 (aprox. 90–95 €)</td></tr>
 </tbody>
 </table>
 <p>A esto hay que sumar transporte (tren, avión o coche), alojamiento si la formación es en otra ciudad, días sin trabajar, manuales y kit de imanes. Un estudiante que viaja desde otra comunidad para completar tres niveles puede duplicar el costo de la matrícula. Lo analizamos en cuánto cuesta un curso de biomagnetismo.</p>
@@ -2296,7 +2296,7 @@ export const BLOG_02: BlogArticle[] = [
 <li><strong>Manual completo y libro de protocolos</strong> incluidos.</li>
 <li><strong>Comunidad privada</strong> de estudiantes en WhatsApp 24/7, con alumnos de Latinoamérica y España.</li>
 <li><strong>Zoom en vivo</strong> el día 1 de cada mes a las 18:00 UTC (19:00 en invierno y 20:00 en verano en la España peninsular) durante un año.</li>
-<li><strong>Acceso vitalicio</strong> con actualizaciones por US$ 99 en promoción.</li>
+<li><strong>Acceso vitalicio</strong> con actualizaciones por US$ 199.</li>
 </ul>
 <p>Bencio Lingán es comunicador social y terapeuta con más de 7 años de experiencia y más de 20.000 terapias realizadas en su consultorio de Santiago de Surco. Su enfoque es visual, práctico y sin tecnicismos, y el módulo de promoción ayuda a comunicar la terapia de forma clara, algo especialmente útil en el contexto español. Si dudas entre modalidades, lee curso presencial vs online.</p>
 <h3>Diferencias de vocabulario</h3>
@@ -2318,7 +2318,7 @@ export const BLOG_02: BlogArticle[] = [
 <p>Para dar el paso con orden, te ayudarán cómo abrir un consultorio de biomagnetismo y cómo conseguir pacientes. Y si alguna vez viajas a Lima, puedes conocer en persona el trabajo de Bencio en Biomagnetismo Bens.</p>`,
     faqs: [
       { question: "¿Dónde estudiar biomagnetismo en España?", answer: "La oferta presencial se concentra en Madrid, Barcelona, Valencia y Sevilla. Para estudiar desde cualquier comunidad autónoma, recomendamos el curso online de Biomagnetismo Bens, con acceso vitalicio." },
-      { question: "¿Cuánto cuesta un curso de biomagnetismo en España?", answer: "Un curso presencial de fin de semana suele costar entre 250 € y 700 € por nivel, y un programa completo entre 900 € y 2.500 €. El curso online de Bens cuesta US$ 99, unos 90–95 €." },
+      { question: "¿Cuánto cuesta un curso de biomagnetismo en España?", answer: "Un curso presencial de fin de semana suele costar entre 250 € y 700 € por nivel, y un programa completo entre 900 € y 2.500 €. El curso online de Bens cuesta US$ 199, unos 90–95 €." },
       { question: "¿Hay titulación oficial de biomagnetismo en España?", answer: "No. Ningún curso de biomagnetismo otorga un título sanitario oficial ni habilita para ejercer como profesional de la salud. Desconfía de quien prometa títulos 'homologados'." },
       { question: "¿Es legal ejercer biomagnetismo en España?", answer: "Se puede ofrecer como práctica complementaria de bienestar, dándose de alta como autónomo y cumpliendo los requisitos municipales y autonómicos. La publicidad que promete curaciones puede ser sancionada." },
       { question: "¿A qué hora es el Zoom del curso de Bens en España?", answer: "El día 1 de cada mes a las 18:00 UTC: las 19:00 en invierno y las 20:00 en verano en la España peninsular (una hora menos en Canarias), durante un año." }
@@ -2577,7 +2577,7 @@ export const BLOG_02: BlogArticle[] = [
 </table>
 <p>Estas cifras son solo ejemplos para planificar. Lo importante es que la decisión de continuar sea tuya, sesión a sesión, y que nunca reemplace las indicaciones de tu médico.</p>
 <h3>¿Y si quiero aprender a aplicarlo en casa?</h3>
-<p>Para algunas familias, sobre todo si varias personas quieren sesiones de bienestar, aprender el método puede ser una alternativa interesante a largo plazo. Bencio Lingán ofrece un <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">curso online completo de biomagnetismo</a> por US$ 99, con acceso vitalicio. Requiere dedicación y siempre debe aplicarse como complemento, respetando las contraindicaciones.</p>
+<p>Para algunas familias, sobre todo si varias personas quieren sesiones de bienestar, aprender el método puede ser una alternativa interesante a largo plazo. Bencio Lingán ofrece un <a href="https://biomagnetismobens.pe/pages/curso" target="_blank" rel="sponsored noopener">curso online completo de biomagnetismo</a> por US$ 199, con acceso vitalicio. Requiere dedicación y siempre debe aplicarse como complemento, respetando las contraindicaciones.</p>
 
 <h2 id="paquetes">Paquetes, promociones y señales de alerta</h2>
 <p>Los paquetes no son malos en sí mismos, pero algunos esconden prácticas cuestionables. Atención a estas señales:</p>

@@ -20,7 +20,7 @@ const CRITERIA = [
   ["Material incluido", "Manual completo + libro de protocolos", "Pago aparte"],
   ["Cómo conseguir pacientes", "Módulo de marketing de tu terapia", "Rara vez"],
   ["Acceso", "Vitalicio con actualizaciones", "Limitado en el tiempo"],
-  ["Precio", `${BENS.cursoPrice} (antes ${BENS.cursoOldPrice})`, "US$ 150 – 600+"],
+  ["Precio", `${BENS.cursoPrice} pago único, acceso vitalicio`, "US$ 150 – 600+"],
 ];
 
 const MODULES = [
@@ -54,7 +54,7 @@ export default function CursoLanding() {
             </p>
             <div className="mt-6 flex items-end gap-3">
               <span className="text-5xl font-black">{BENS.cursoPrice}</span>
-              <span className="pb-1 text-lg text-slate-400 line-through">{BENS.cursoOldPrice}</span>
+              <span className="pb-1 text-lg text-slate-400">pago único · acceso vitalicio</span>
             </div>
             <a
               href={cursoLink(campaign, "hero")}

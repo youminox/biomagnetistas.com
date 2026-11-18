@@ -29,8 +29,7 @@ export const BENS = {
   district: "Santiago de Surco",
   years: "7+",
   therapies: "20.000+",
-  cursoPrice: "US$ 99",
-  cursoOldPrice: "US$ 199",
+  cursoPrice: "US$ 199",
   slug: "biomagnetismo-bens-lima",
 };
 
