@@ -33,6 +33,7 @@ export const metadata: Metadata = {
     images: [{ url: `${SITE_URL}/images/bens/terapia-imanes-bens-surco.jpg`, width: 1200, height: 680 }],
   },
   twitter: { card: "summary_large_image" },
+  verification: { google: "twFiUZPHh5Eq-K0X4F9F8oKyv3-NYE0DqKlIqc0QuNM" },
   robots: {
     index: true,
     follow: true,
