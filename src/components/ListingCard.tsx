@@ -1,3 +1,4 @@
+import Pic from "./Pic";
 import Link from "next/link";
 import type { Biomagnetista } from "@/data/types";
 import { COUNTRY_BY_SLUG, CITY_BY_SLUG } from "@/data/countries";
@@ -14,11 +15,10 @@ export default function ListingCard({ b, rank }: { b: Biomagnetista; rank?: numb
       }`}
     >
       <Link href={`/biomagnetista/${b.slug}/`} className="relative block">
-        <img
+        <Pic
           src={imageFor(b)}
           alt={`${b.name} — biomagnetista en ${city?.name ?? ""}, ${country?.name ?? ""}`}
           className="h-48 w-full object-cover"
-          loading="lazy"
         />
         {rank && (
           <span className="absolute left-3 top-3 rounded-full bg-slate-900/90 px-3 py-1 text-xs font-black text-white">

@@ -1,14 +1,16 @@
+import Pic from "@/components/Pic";
 import type { Metadata } from "next";
 import Link from "next/link";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import ArticleCard from "@/components/ArticleCard";
 import { ARTICLES } from "@/data/blog";
-import { BENS, SITE_URL, cursoLink } from "@/lib/site";
+import { BENS, SITE_URL, clampDescription, cursoLink, fitTitle } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Curso de biomagnetismo online: el mejor de 2026 (comparativa)",
-  description:
-    "Comparamos cómo elegir un curso de biomagnetismo online y por qué recomendamos el Curso Completo de Bencio Lingán: 7 módulos, comunidad, Zoom mensual y acceso vitalicio.",
+  title: fitTitle("Curso de biomagnetismo online: el mejor de 2026"),
+  description: clampDescription(
+    "Cómo elegir un curso de biomagnetismo online y por qué recomendamos el de Bencio Lingán: 7 módulos, comunidad, Zoom mensual y acceso vitalicio.",
+  ),
   alternates: { canonical: `${SITE_URL}/curso-biomagnetismo-online/` },
 };
 
@@ -68,10 +70,14 @@ export default function CursoLanding() {
               Enlace de afiliado: si te inscribes, podemos recibir una comisión sin coste adicional para ti.
             </p>
           </div>
-          <img
+          <Pic
             src="/images/bens/bencio-lingan-biomagnetista.png"
             alt="Bencio Lingán, docente del curso de biomagnetismo online"
-            className="mx-auto max-h-[28rem] rounded-3xl bg-white/5 object-contain"
+            className="mx-auto max-h-[28rem] w-auto rounded-3xl bg-white/5 object-contain"
+            width={540}
+            height={540}
+            sizes="(max-width: 768px) 90vw, 540px"
+            priority
           />
         </div>
       </section>

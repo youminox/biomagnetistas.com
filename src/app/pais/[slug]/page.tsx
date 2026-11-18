@@ -1,3 +1,4 @@
+import Pic from "@/components/Pic";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -9,7 +10,7 @@ import { COUNTRIES, COUNTRY_BY_SLUG, citiesOf } from "@/data/countries";
 import { byCountry, byCity } from "@/data/biomagnetistas";
 import { articlesForCountry } from "@/data/blog";
 import type { CountrySlug } from "@/data/types";
-import { BENS, SITE_URL, clampDescription, fitTitle } from "@/lib/site";
+import { BENS, DEFAULT_OG_IMAGE, SITE_URL, clampDescription, fitTitle } from "@/lib/site";
 
 export function generateStaticParams() {
   return COUNTRIES.map((c) => ({ slug: c.slug }));
@@ -31,7 +32,12 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
     title: fitTitle(title),
     description: clampDescription(description),
     alternates: { canonical: `${SITE_URL}/pais/${c.slug}/` },
-    openGraph: { title, description: clampDescription(description), url: `${SITE_URL}/pais/${c.slug}/` },
+    openGraph: {
+      title,
+      description: clampDescription(description),
+      url: `${SITE_URL}/pais/${c.slug}/`,
+      images: [DEFAULT_OG_IMAGE],
+    },
   };
 }
 
@@ -122,11 +128,10 @@ export default async function CountryPage({ params }: { params: Promise<{ slug: 
               <li>✅ <strong>Formador de terapeutas:</strong> su curso online es referencia en Latinoamérica.</li>
             </ul>
           </div>
-          <img
+          <Pic
             src="/images/bens/terapia-imanes-bens-surco.jpg"
             alt="Terapia de biomagnetismo en el consultorio de Biomagnetismo Bens en Surco"
             className="h-full w-full rounded-2xl object-cover"
-            loading="lazy"
           />
         </section>
       )}

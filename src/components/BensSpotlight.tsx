@@ -1,3 +1,4 @@
+import Pic from "./Pic";
 import Link from "next/link";
 import { BENS, cursoLink, reservaLink } from "@/lib/site";
 
@@ -15,11 +16,10 @@ function ReservaCard({ campaign, compact = false }: { campaign: string; compact?
   return (
     <div className="flex h-full flex-col overflow-hidden rounded-2xl border border-teal-200 bg-white shadow-sm">
       {!compact && (
-        <img
+        <Pic
           src="/images/bens/terapia-imanes-bens-surco.jpg"
           alt="Sesión real de biomagnetismo en el consultorio de Biomagnetismo Bens en Surco, Lima"
           className="h-44 w-full object-cover"
-          loading="lazy"
         />
       )}
       <div className="flex flex-1 flex-col p-5">
@@ -51,11 +51,10 @@ function CursoCard({ campaign, compact = false }: { campaign: string; compact?: 
   return (
     <div className="flex h-full flex-col overflow-hidden rounded-2xl border border-red-200 bg-gradient-to-br from-slate-950 via-slate-900 to-red-950 text-white shadow-sm">
       {!compact && (
-        <img
+        <Pic
           src="/images/bens/curso-biomagnetismo-online-bens.jpg"
           alt="Plataforma del Curso Completo de Biomagnetismo online de Biomagnetismo Bens"
           className="h-44 w-full object-cover object-top"
-          loading="lazy"
         />
       )}
       <div className="flex flex-1 flex-col p-5">
@@ -90,11 +89,13 @@ export default function BensSpotlight({ variant = "home", campaign = "home", pri
     const isCurso = variant === "inline-curso";
     return (
       <aside className="not-prose my-8 flex flex-col items-center gap-4 rounded-2xl border border-slate-200 bg-slate-50 p-5 sm:flex-row">
-        <img
+        <Pic
           src={isCurso ? "/images/bens/bencio-lingan-biomagnetista.png" : "/images/bens/sesion-biomagnetismo-bens-lima.jpg"}
           alt={isCurso ? "Bencio Lingán, terapeuta y formador de biomagnetismo" : "Sesión de biomagnetismo en Biomagnetismo Bens, Lima"}
           className="h-24 w-24 shrink-0 rounded-xl bg-white object-cover"
-          loading="lazy"
+          width={540}
+          height={540}
+          sizes="96px"
         />
         <div className="flex-1 text-center sm:text-left">
           <p className="text-[11px] font-extrabold uppercase tracking-wider text-teal-700">

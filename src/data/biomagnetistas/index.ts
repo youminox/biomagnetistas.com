@@ -36,6 +36,30 @@ export function byCity(city: string) {
   return rank(BIOMAGNETISTAS.filter((b) => b.citySlug === city));
 }
 
+/** Versión ligera para componentes cliente (reduce el HTML/JS de la home). */
+export function slim(b: Biomagnetista): Biomagnetista {
+  return {
+    slug: b.slug,
+    name: b.name,
+    countrySlug: b.countrySlug,
+    citySlug: b.citySlug,
+    district: b.district,
+    modalities: b.modalities,
+    editorialScore: b.editorialScore,
+    publicRating: b.publicRating,
+    publicReviewCount: b.publicReviewCount,
+    publicRatingSource: b.publicRatingSource,
+    specialties: b.specialties.slice(0, 3),
+    description: b.description.length > 170 ? `${b.description.slice(0, 167)}…` : b.description,
+    highlights: [],
+    reviews: [],
+    sourceUrls: [],
+    imagePrompt: "",
+    image: b.image,
+    featured: b.featured,
+  };
+}
+
 export function imageFor(b: Biomagnetista) {
   return b.image ?? `/images/biomagnetistas/${b.slug}.webp`;
 }

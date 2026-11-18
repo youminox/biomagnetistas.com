@@ -4,7 +4,7 @@ import { SITE_URL } from "@/lib/site";
 
 export const metadata: Metadata = {
   title: "Política de cookies",
-  description: "Qué cookies utiliza Biomagnetistas.com y cómo puedes gestionarlas desde tu navegador.",
+  description: "Qué cookies técnicas, analíticas y de afiliados utiliza Biomagnetistas.com y cómo puedes gestionarlas o bloquearlas desde tu navegador.",
   alternates: { canonical: `${SITE_URL}/politica-de-cookies/` },
 };
 

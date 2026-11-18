@@ -42,10 +42,23 @@ export function cursoLink(campaign: string, medium?: string) {
 
 /* ---------- SEO helpers ---------- */
 const TITLE_SUFFIX_LENGTH = ` | ${SITE_NAME}`.length;
+const MAX_TITLE = 62;
 
+/** Devuelve un título ≤ ~62 caracteres: con sufijo de marca si cabe, si no absoluto y recortado. */
 export function fitTitle(title: string): Metadata["title"] {
-  return title.length + TITLE_SUFFIX_LENGTH <= 65 ? title : { absolute: title };
+  if (title.length + TITLE_SUFFIX_LENGTH <= 65) return title;
+  if (title.length <= MAX_TITLE) return { absolute: title };
+  const cut = title.slice(0, MAX_TITLE - 1);
+  const last = cut.lastIndexOf(" ");
+  return { absolute: `${cut.slice(0, last > 40 ? last : cut.length).replace(/[\s,;:.—(|-]+$/, "")}…` };
 }
+
+export const DEFAULT_OG_IMAGE = {
+  url: "https://biomagnetistas.com/images/bens/terapia-imanes-bens-surco.jpg",
+  width: 1200,
+  height: 680,
+  alt: "Terapia de biomagnetismo con imanes sobre la ropa",
+};
 
 export function clampDescription(text: string, max = 160): string {
   const clean = text.replace(/\s+/g, " ").trim();

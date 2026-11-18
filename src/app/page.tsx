@@ -1,10 +1,11 @@
+import Pic from "@/components/Pic";
 import Link from "next/link";
 import BensSpotlight from "@/components/BensSpotlight";
 import DirectoryExplorer from "@/components/DirectoryExplorer";
 import ArticleCard from "@/components/ArticleCard";
 import Stars from "@/components/Stars";
 import { COUNTRIES } from "@/data/countries";
-import { BIOMAGNETISTAS, byCountry } from "@/data/biomagnetistas";
+import { BIOMAGNETISTAS, byCountry, slim } from "@/data/biomagnetistas";
 import { ARTICLES } from "@/data/blog";
 import { BENS, SITE_URL, cursoLink, reservaLink } from "@/lib/site";
 
@@ -65,10 +66,12 @@ export default function HomePage() {
 
       {/* HERO */}
       <section className="relative overflow-hidden bg-slate-950 text-white">
-        <img
+        <Pic
           src="/images/brand/hero-home.webp"
           alt="Consultorio de biomagnetismo con imanes rojo y negro sobre una camilla"
           className="absolute inset-0 h-full w-full object-cover opacity-30"
+          priority
+          sizes="100vw"
         />
         <div className="relative mx-auto max-w-7xl px-4 py-16 md:py-24">
           <p className="inline-flex items-center gap-2 rounded-full bg-white/10 px-3 py-1 text-xs font-bold uppercase tracking-wider text-teal-200">
@@ -103,18 +106,24 @@ export default function HomePage() {
           </span>
           <div className="grid md:grid-cols-5">
             <div className="relative h-72 md:col-span-2 md:h-auto">
-              <img
+              <Pic
                 src="/images/bens/sesion-biomagnetismo-bens-lima.jpg"
                 alt="Paciente recibiendo terapia de biomagnetismo con imanes sobre la ropa en Biomagnetismo Bens, Surco"
                 className="absolute inset-0 h-full w-full object-cover object-[50%_60%]"
+                width={1050}
+                height={1400}
+                sizes="(max-width: 768px) 100vw, 520px"
               />
             </div>
             <div className="p-6 md:col-span-3 md:p-10">
               <div className="flex items-center gap-3">
-                <img
+                <Pic
                   src="/images/bens/bencio-lingan-biomagnetista.png"
                   alt="Bencio Lingán, biomagnetista en Lima"
                   className="h-16 w-16 rounded-full border border-slate-200 bg-slate-50 object-cover object-top"
+                  width={540}
+                  height={540}
+                  sizes="64px"
                 />
                 <div>
                   <h2 className="text-2xl font-black text-slate-900 md:text-3xl">Biomagnetismo Bens</h2>
@@ -180,7 +189,7 @@ export default function HomePage() {
           editorial y, cuando existen, calificaciones públicas verificadas.
         </p>
         <div className="mt-8">
-          <DirectoryExplorer listings={BIOMAGNETISTAS} />
+          <DirectoryExplorer listings={BIOMAGNETISTAS.map(slim)} />
         </div>
       </section>
 

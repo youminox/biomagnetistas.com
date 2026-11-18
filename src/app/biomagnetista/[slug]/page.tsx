@@ -1,3 +1,4 @@
+import Pic from "@/components/Pic";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -18,9 +19,11 @@ export async function generateMetadata({ params }: { params: Promise<{ slug: str
   const b = BIOMAGNETISTA_BY_SLUG[slug];
   if (!b) return {};
   const city = CITY_BY_SLUG[b.citySlug];
+  const cityName = city?.name ?? "";
+  const candidates = [`${b.name}: biomagnetista en ${cityName}`, `${b.name} (${cityName})`, `${b.name}`];
   const title = b.featured
     ? "Biomagnetismo Bens (Surco, Lima): opiniones y reserva"
-    : `${b.name}: biomagnetista en ${city?.name ?? ""}`;
+    : (candidates.find((t) => t.length <= 62) ?? candidates[2]);
   return {
     title: fitTitle(title),
     description: clampDescription(b.description),
@@ -104,13 +107,15 @@ export default async function ListingPage({ params }: { params: Promise<{ slug: 
             ) : null}
           </div>
 
-          <img
+          <Pic
             src={imageFor(b)}
             alt={`${b.name}, biomagnetismo en ${city?.name}`}
             className="mt-6 h-80 w-full rounded-2xl object-cover md:h-[28rem]"
+            priority
+            sizes="(max-width: 1024px) 100vw, 820px"
           />
           {!b.featured && (
-            <p className="mt-2 text-xs text-slate-400">Imagen ilustrativa de ambiente. No corresponde al local.</p>
+            <p className="mt-2 text-xs text-slate-500">Imagen ilustrativa de ambiente. No corresponde al local.</p>
           )}
 
           <section className="mt-8">
@@ -131,12 +136,12 @@ export default async function ListingPage({ params }: { params: Promise<{ slug: 
                 <h2 className="text-2xl font-black text-slate-900">Fotos reales de Biomagnetismo Bens</h2>
                 <div className="mt-4 grid grid-cols-2 gap-3 md:grid-cols-3">
                   {BENS_GALLERY.map((g) => (
-                    <img
+                    <Pic
                       key={g.src}
                       src={g.src}
                       alt={g.alt}
                       className="h-48 w-full rounded-xl bg-slate-50 object-cover"
-                      loading="lazy"
+                      sizes="(max-width: 768px) 50vw, 280px"
                     />
                   ))}
                 </div>
@@ -291,7 +296,7 @@ export default async function ListingPage({ params }: { params: Promise<{ slug: 
                 </a>
               )}
             </div>
-            <p className="mt-4 text-[11px] text-slate-400">
+            <p className="mt-4 text-[11px] text-slate-500">
               Datos públicos verificados en noviembre de 2026.{" "}
               <Link href="/metodologia/" className="underline">
                 Metodología

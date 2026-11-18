@@ -2,11 +2,11 @@ import type { Metadata } from "next";
 import Breadcrumbs from "@/components/Breadcrumbs";
 import BensSpotlight from "@/components/BensSpotlight";
 import NearMe from "@/components/NearMe";
-import { BIOMAGNETISTAS } from "@/data/biomagnetistas";
-import { SITE_URL } from "@/lib/site";
+import { BIOMAGNETISTAS, slim } from "@/data/biomagnetistas";
+import { SITE_URL, fitTitle } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Biomagnetista cerca de mí: encuentra uno en tu país",
+  title: fitTitle("Biomagnetista cerca de mí: encuentra uno en tu país"),
   description:
     "Encuentra un biomagnetista cerca de ti en Perú, México, Colombia, Argentina, Chile, España, EE.UU. y más. Ranking verificado por país y ciudad.",
   alternates: { canonical: `${SITE_URL}/biomagnetista-cerca-de-mi/` },
@@ -22,7 +22,7 @@ export default function NearMePage() {
         Si estás en Lima, nuestra recomendación es Biomagnetismo Bens en Surco.
       </p>
       <div className="mt-8">
-        <NearMe listings={BIOMAGNETISTAS} />
+        <NearMe listings={BIOMAGNETISTAS.map(slim)} />
       </div>
       <section className="mt-14">
         <h2 className="mb-6 text-2xl font-black text-slate-900">¿No hay un biomagnetista cerca? Aprende online</h2>

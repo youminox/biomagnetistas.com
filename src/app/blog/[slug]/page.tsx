@@ -1,3 +1,4 @@
+import Pic from "@/components/Pic";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { notFound } from "next/navigation";
@@ -107,11 +108,12 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
             ))}
           </div>
 
-          <img
+          <Pic
             src={articleImage(a)}
             alt={a.imageAlt}
             className="mt-6 aspect-[3/2] w-full rounded-2xl object-cover"
-            fetchPriority="high"
+            priority
+            sizes="(max-width: 1024px) 100vw, 900px"
           />
 
           {a.keyTakeaways.length > 0 && (
@@ -167,7 +169,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           <p className="mt-10 rounded-xl bg-amber-50 p-4 text-xs text-amber-900">
             <strong>Aviso médico:</strong> contenido informativo. El biomagnetismo es una práctica complementaria y no
             sustituye el diagnóstico ni el tratamiento de un profesional de la salud. Ante síntomas persistentes o
-            graves, consulta a tu médico. <Link href="/aviso-medico/" className="underline">Más información</Link>.
+            graves, consulta a tu médico. <Link href="/aviso-medico/" className="underline">Leer el aviso médico completo</Link>.
           </p>
         </article>
 

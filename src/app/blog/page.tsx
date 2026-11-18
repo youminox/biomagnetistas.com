@@ -3,10 +3,10 @@ import Breadcrumbs from "@/components/Breadcrumbs";
 import ArticleCard from "@/components/ArticleCard";
 import { ARTICLES, CATEGORY_LABELS } from "@/data/blog";
 import type { BlogCategory } from "@/data/types";
-import { SITE_URL } from "@/lib/site";
+import { SITE_URL, fitTitle } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Blog de biomagnetismo: guías, precios y cursos",
+  title: fitTitle("Blog de biomagnetismo: guías, precios y cursos"),
   description:
     "Guías de biomagnetismo: qué es el Par Biomagnético, cómo es una sesión, precios por país, cómo elegir biomagnetista y cómo formarte como terapeuta.",
   alternates: { canonical: `${SITE_URL}/blog/` },
