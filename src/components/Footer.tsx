@@ -51,6 +51,11 @@ export default function Footer() {
               </Link>
             </li>
             <li>
+              <Link href="/productos/" className="hover:text-white">
+                Productos e imanes
+              </Link>
+            </li>
+            <li>
               <Link href="/biomagnetista-cerca-de-mi/" className="hover:text-white">
                 Biomagnetista cerca de mí
               </Link>

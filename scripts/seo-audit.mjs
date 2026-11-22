@@ -44,7 +44,7 @@ async function audit(u) {
     const tag = m[0];
     if (!/alt="[^"]+"/.test(tag)) add("img sin alt", u, tag.slice(0, 80));
     const src = (tag.match(/src="([^"]+)"/) || [])[1];
-    if (src?.startsWith("/")) imgs.add(src);
+    if (src?.startsWith("/")) imgs.add(src.replace(/&amp;/g, "&"));
   }
   for (const m of h.matchAll(/href="(\/[^"#?]*)"/g)) internal.add(m[1]);
 }

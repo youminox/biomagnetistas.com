@@ -37,6 +37,9 @@ export default function Header() {
           <Link href="/curso-biomagnetismo-online/" className="hover:text-teal-700">
             Curso online
           </Link>
+          <Link href="/productos/" className="hover:text-teal-700">
+            Productos
+          </Link>
           <Link href="/blog/" className="hover:text-teal-700">
             Blog
           </Link>
@@ -63,6 +66,7 @@ export default function Header() {
       </div>
       <nav className="flex gap-4 overflow-x-auto border-t border-slate-100 px-4 py-2 text-xs font-semibold text-slate-600 lg:hidden">
         <Link href="/blog/">Blog</Link>
+        <Link href="/productos/">Productos</Link>
         <Link href="/curso-biomagnetismo-online/">Curso</Link>
         <Link href="/biomagnetista-cerca-de-mi/">Cerca de mí</Link>
         {COUNTRIES.map((c) => (

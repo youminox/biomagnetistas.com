@@ -3,18 +3,22 @@ import { SITE_URL } from "@/lib/site";
 import { COUNTRIES, CITIES } from "@/data/countries";
 import { BIOMAGNETISTAS } from "@/data/biomagnetistas";
 import { ARTICLES } from "@/data/blog";
+import { getAllProductosSummaries } from "@/data/productos";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date("2026-11-17");
+  const productosNow = new Date("2026-11-22");
+  const productos = getAllProductosSummaries();
   const staticPages = [
-    "", "/blog/", "/curso-biomagnetismo-online/", "/biomagnetista-cerca-de-mi/", "/nosotros/", "/metodologia/",
+    "", "/blog/", "/productos/", "/curso-biomagnetismo-online/", "/biomagnetista-cerca-de-mi/", "/nosotros/", "/metodologia/",
     "/contacto/", "/aviso-medico/", "/divulgacion-de-afiliados/", "/aviso-legal/", "/politica-de-privacidad/", "/politica-de-cookies/",
-  ].map((p) => ({ url: `${SITE_URL}${p || "/"}`, lastModified: now, priority: p === "" ? 1 : 0.5 }));
+  ].map((p) => ({ url: `${SITE_URL}${p || "/"}`, lastModified: p === "/productos/" ? productosNow : now, priority: p === "" ? 1 : p === "/productos/" ? 0.9 : 0.5 }));
   return [
     ...staticPages,
     ...COUNTRIES.map((c) => ({ url: `${SITE_URL}/pais/${c.slug}/`, lastModified: now, priority: 0.9 })),
     ...CITIES.map((c) => ({ url: `${SITE_URL}/ciudad/${c.slug}/`, lastModified: now, priority: 0.8 })),
     ...BIOMAGNETISTAS.map((b) => ({ url: `${SITE_URL}/biomagnetista/${b.slug}/`, lastModified: now, priority: b.featured ? 0.9 : 0.6 })),
     ...ARTICLES.map((a) => ({ url: `${SITE_URL}/blog/${a.slug}/`, lastModified: new Date(a.updatedAt), priority: a.pillar ? 0.9 : 0.7 })),
+    ...productos.map((p) => ({ url: `${SITE_URL}/productos/${p.slug}/`, lastModified: new Date(p.updatedAt), priority: 0.8 })),
   ];
 }

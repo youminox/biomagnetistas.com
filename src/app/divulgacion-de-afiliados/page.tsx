@@ -15,6 +15,7 @@ export default function Page() {
       <p>Algunos enlaces de este sitio, en particular los dirigidos al <strong>Curso Completo de Biomagnetismo</strong> de Biomagnetismo Bens (biomagnetismobens.pe), son <strong>enlaces de afiliado</strong>: si compras a través de ellos, podemos recibir una comisión sin coste adicional para ti.</p>
       <p>También mantenemos una relación de colaboración con Biomagnetismo Bens para la promoción de sus citas presenciales en Lima. Estos enlaces están marcados como patrocinados (<code>rel=&quot;sponsored&quot;</code>).</p>
       <p>Esta relación es la razón por la que Biomagnetismo Bens aparece destacado. Aun así, solo lo recomendamos porque cumple nuestros criterios de trayectoria y transparencia, descritos en la metodología.</p>
+      <p>Asimismo, en la sección <code>/productos/</code> participamos en el Programa de Afiliados de Amazon. En calidad de Afiliado de Amazon (IDs de seguimiento oficiales <code>biomagnetistas-20</code> en Amazon.com y <code>biomagnetistas-21</code> en Amazon.es), Biomagnetistas.com obtiene ingresos por las compras adscritas que cumplen los requisitos aplicables, sin ningún costo adicional para el comprador.</p>
     </LegalPage>
   );
 }
