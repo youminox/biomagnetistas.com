@@ -203,13 +203,6 @@ export default function AmazonAffiliateBox({
             </ul>
           </div>
 
-          <div className="md:w-64 shrink-0 rounded-xl bg-white/5 border border-white/15 p-4 text-center space-y-3">
-            <div className="text-xs font-bold text-amber-400">
-              ★★★★★ {primaryProduct.rating} / 5.0
-            </div>
-            <div className="text-[11px] text-slate-300">
-              Basado en {primaryProduct.reviewsCount} valoraciones verificadas
-            </div>
             <a
               href={url}
               target="_blank"
@@ -304,19 +297,6 @@ export default function AmazonAffiliateBox({
                   </ul>
                 </div>
 
-                <div className="mt-5 pt-3 border-t border-slate-200/30">
-                  <div className="mb-2.5 flex items-center justify-between text-xs">
-                    <span className="font-extrabold text-amber-500">
-                      ★★★★★ {prod.rating}/5 ({prod.reviewsCount})
-                    </span>
-                    <span
-                      className={`text-[11px] font-bold ${
-                        idx === 0 ? "text-teal-700" : "text-teal-300"
-                      }`}
-                    >
-                      ✓ {storeName}
-                    </span>
-                  </div>
                   <a
                     href={url}
                     target="_blank"
@@ -355,27 +335,6 @@ export default function AmazonAffiliateBox({
           <StoreToggle region={region} setRegion={setRegion} />
         </div>
 
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-5">
-          <div className="flex items-start gap-4">
-            <CategoryIcon type={primaryProduct.categoryType} />
-            <div>
-              <h3 className="text-base sm:text-lg font-extrabold text-slate-900 leading-snug">
-                {primaryProduct.title}
-              </h3>
-              <p className="mt-1 text-xs sm:text-sm text-slate-700 leading-relaxed">
-                {primaryProduct.subtitle}
-              </p>
-              <div className="mt-2 flex flex-wrap items-center gap-3 text-xs">
-                <span className="font-bold text-amber-600">
-                  ★★★★★ {primaryProduct.rating}/5
-                </span>
-                <span className="text-slate-500 font-medium">
-                  ({primaryProduct.reviewsCount} valoraciones)
-                </span>
-                <span className="inline-flex items-center gap-1 font-bold text-teal-800">
-                  ✓ Envío oficial desde {storeName}
-                </span>
-              </div>
             </div>
           </div>
 
@@ -424,24 +383,6 @@ export default function AmazonAffiliateBox({
           </div>
         </div>
 
-        <div className="space-y-3.5">
-          {products.slice(0, 2).map((prod) => {
-            const url = buildAmazonUrl(prod, region);
-            return (
-              <div
-                key={prod.id}
-                className="rounded-xl border border-amber-200/80 bg-white p-3.5 shadow-2xs"
-              >
-                <span className="inline-block rounded-md bg-amber-100 px-2 py-0.5 text-[10px] font-extrabold text-amber-900">
-                  {prod.badge}
-                </span>
-                <h4 className="mt-1.5 text-xs font-extrabold text-slate-900 leading-snug">
-                  {prod.title}
-                </h4>
-                <div className="mt-1 flex items-center gap-2 text-[11px]">
-                  <span className="font-bold text-amber-600">★★★★★ {prod.rating}</span>
-                  <span className="text-slate-500">({prod.reviewsCount})</span>
-                </div>
                 <a
                   href={url}
                   target="_blank"
@@ -537,15 +478,6 @@ export default function AmazonAffiliateBox({
                 </ul>
               </div>
 
-              <div className="mt-5 pt-3 border-t border-slate-100">
-                <div className="mb-2.5 flex items-center justify-between text-xs">
-                  <span className="font-extrabold text-amber-600">
-                    ★★★★★ {product.rating}/5
-                  </span>
-                  <span className="text-[11px] font-semibold text-teal-800">
-                    ✓ Disponible en {storeName}
-                  </span>
-                </div>
 
                 <a
                   href={url}
